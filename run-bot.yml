@@ -1,0 +1,66 @@
+name: run-bot
+
+on:
+  # اجرای اصلی: cron-job.org با API گیتهاب این workflow را هر ۱۰ تا ۱۵ دقیقه فعال می‌کند (راهنما در README).
+  workflow_dispatch:
+  # زمان‌بندی پشتیبان: اگه cron-job.org از کار افتاد، هر ۳ ساعت یک‌بار اجرا می‌شود.
+  # (ریپوی private: این بخش را حذف کن تا دقیقه‌ها مصرف نشوند.)
+  schedule:
+    - cron: "37 */3 * * *"
+
+concurrency:
+  group: bot-run
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    services:
+      rsshub:
+        image: diygod/rsshub:latest
+        ports:
+          - 1200:1200
+        env:
+          TWITTER_AUTH_TOKEN: ${{ secrets.TWITTER_AUTH_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Wait for RSSHub
+        run: |
+          for i in $(seq 1 40); do
+            if curl -fsS -o /dev/null http://localhost:1200/; then echo "RSSHub ready"; exit 0; fi
+            sleep 3
+          done
+          echo "RSSHub did not start"; exit 1
+
+      - name: Run bot
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+          CHANNEL_SIGNATURE: ${{ secrets.CHANNEL_SIGNATURE }}
+          RSSHUB_URL: http://localhost:1200
+          USE_PUBLIC_INSTANCES: "0"
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          OPENAI_COMPAT_BASE_URL: ${{ secrets.OPENAI_COMPAT_BASE_URL }}
+          OPENAI_COMPAT_API_KEY: ${{ secrets.OPENAI_COMPAT_API_KEY }}
+          OPENAI_COMPAT_MODEL: ${{ secrets.OPENAI_COMPAT_MODEL }}
+          SOURCE_DELAY: "1"
+          REQUEST_TIMEOUT: "30"
+        run: python run_once.py
+
+      - name: Save state
+        if: always()
+        run: bash save_state.sh
