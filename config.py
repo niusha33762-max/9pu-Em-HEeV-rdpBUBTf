@@ -26,7 +26,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip()
 CHANNEL_ID = os.getenv("CHANNEL_ID", "").strip()   # مثل @mychannel یا -100123456789
 ADMIN_ID = _int("ADMIN_ID", 0)
 PORT = _int("PORT", 10000)
-SIGNATURE = os.getenv("CHANNEL_SIGNATURE") or "@XNewsCafe"  # امضای پایین هر پست
+SIGNATURE = os.getenv("CHANNEL_SIGNATURE") or "@TheNewsCafe"  # امضای پایین هر پست
 
 # ---------- گیت‌هاب (ذخیره‌ی دائمی sources.json و filters.json) ----------
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "").strip()
