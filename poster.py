@@ -144,6 +144,7 @@ async def process_source(bot, name: str, info: dict):
     seen_set = set(seen)
 
     unseen = [e for e in sort_newest_first(feed.entries) if guid_of(e) and guid_of(e) not in seen_set]
+    print(f"[{name}] @{username}: پست‌های فید={len(feed.entries)} | دیده‌شده‌های ذخیره‌شده={len(seen)} | جدید={len(unseen)}")
     if not unseen:
         return [], 0, "", ""
 
