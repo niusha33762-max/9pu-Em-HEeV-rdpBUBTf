@@ -18,7 +18,7 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    timeout-minutes: 15
     services:
       rsshub:
         image: diygod/rsshub:latest
@@ -45,6 +45,9 @@ jobs:
           done
           echo "RSSHub did not start"; exit 1
 
+      - name: Check state can be saved
+        run: bash check_push.sh
+
       - name: Run bot
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
@@ -57,6 +60,8 @@ jobs:
           OPENAI_COMPAT_BASE_URL: ${{ secrets.OPENAI_COMPAT_BASE_URL }}
           OPENAI_COMPAT_API_KEY: ${{ secrets.OPENAI_COMPAT_API_KEY }}
           OPENAI_COMPAT_MODEL: ${{ secrets.OPENAI_COMPAT_MODEL }}
+          PYTHONUNBUFFERED: "1"
+          MAX_PER_RUN: "10"
           SOURCE_DELAY: "1"
           REQUEST_TIMEOUT: "30"
         run: python run_once.py
