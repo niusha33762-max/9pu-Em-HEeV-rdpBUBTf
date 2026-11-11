@@ -1,9 +1,8 @@
 {
   "Iran Intl": {
     "username": "IranIntlbrk",
-    "last_guid": "https://twitter.com/IranIntlbrk/status/2120616841257288066",
+    "last_guid": "https://twitter.com/IranIntlbrk/status/2120633957805117800",
     "seen": [
-      "https://twitter.com/IranIntlbrk/status/2120441092046987485",
       "https://twitter.com/IranIntlbrk/status/2120443095833821681",
       "https://twitter.com/IranIntlbrk/status/2120444490536378420",
       "https://twitter.com/IranIntlbrk/status/2120445371168030835",
@@ -102,7 +101,8 @@
       "https://twitter.com/IranIntlbrk/status/2120598866701533576",
       "https://twitter.com/IranIntlbrk/status/2120601433129254971",
       "https://twitter.com/IranIntlbrk/status/2120605206287450137",
-      "https://twitter.com/IranIntlbrk/status/2120616841257288066"
+      "https://twitter.com/IranIntlbrk/status/2120616841257288066",
+      "https://twitter.com/IranIntlbrk/status/2120633957805117800"
     ]
   },
   "CNN": {
@@ -1257,9 +1257,8 @@
   },
   "FOX": {
     "username": "FoxNewsPolitics",
-    "last_guid": "https://twitter.com/foxnewspolitics/status/2120625790438281607",
+    "last_guid": "https://twitter.com/foxnewspolitics/status/2120634357153202365",
     "seen": [
-      "https://twitter.com/FoxNews/status/2119814238512304619",
       "https://twitter.com/FoxNews/status/2119816139245039882",
       "https://twitter.com/FoxNews/status/2119823727793746129",
       "https://twitter.com/FoxNews/status/2119828649461313757",
@@ -1358,7 +1357,8 @@
       "https://twitter.com/foxnewspolitics/status/2120588798677668349",
       "https://twitter.com/foxnewspolitics/status/2120603705821348071",
       "https://twitter.com/foxnewspolitics/status/2120622033092616382",
-      "https://twitter.com/foxnewspolitics/status/2120625790438281607"
+      "https://twitter.com/foxnewspolitics/status/2120625790438281607",
+      "https://twitter.com/foxnewspolitics/status/2120634357153202365"
     ]
   },
   "The New York Times": {
@@ -1465,11 +1465,8 @@
   },
   "Clash Report": {
     "username": "ClashReport",
-    "last_guid": "https://twitter.com/clashreport/status/2120630149381312971",
+    "last_guid": "https://twitter.com/clashreport/status/2120635112735883765",
     "seen": [
-      "https://twitter.com/clashreport/status/2120503577198076233",
-      "https://twitter.com/clashreport/status/2120503974964916440",
-      "https://twitter.com/clashreport/status/2120504214816194592",
       "https://twitter.com/clashreport/status/2120504374556316098",
       "https://twitter.com/clashreport/status/2120504606090224073",
       "https://twitter.com/clashreport/status/2120504738366083328",
@@ -1566,7 +1563,10 @@
       "https://twitter.com/clashreport/status/2120629044731404319",
       "https://twitter.com/clashreport/status/2120630518211326372",
       "https://twitter.com/clashreport/status/2120629704625401895",
-      "https://twitter.com/clashreport/status/2120630149381312971"
+      "https://twitter.com/clashreport/status/2120630149381312971",
+      "https://twitter.com/clashreport/status/2120634227746308368",
+      "https://twitter.com/clashreport/status/2120634642562965956",
+      "https://twitter.com/clashreport/status/2120635112735883765"
     ]
   }
 }
