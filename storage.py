@@ -1,5 +1,6 @@
 """ذخیره‌سازی منابع و فیلترها: فایل محلی + commit خودکار روی گیت‌هاب."""
 import json
+import os
 import base64
 import threading
 import time
@@ -59,7 +60,8 @@ def github_fetch_file(file_path: str):
 
 def github_commit_file(file_path: str, content: str, message: str) -> bool:
     if not github_enabled():
-        print("GITHUB_TOKEN یا GITHUB_REPO تنظیم نشده - ذخیره فقط محلی انجام شد")
+        if not os.getenv("GITHUB_ACTIONS"):  # در Actions وضعیت با git ذخیره می‌شه و این پیام بی‌معنیه
+            print("GITHUB_TOKEN یا GITHUB_REPO تنظیم نشده - ذخیره فقط محلی انجام شد")
         return False
 
     if not sync_state["ok"]:
