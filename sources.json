@@ -602,7 +602,7 @@
   },
   "NetBlocks": {
     "username": "netblocks",
-    "last_guid": "https://twitter.com/netblocks/status/2117635386272858218",
+    "last_guid": "https://twitter.com/netblocks/status/2120630206792622450",
     "seen": [
       "https://twitter.com/netblocks/status/2117226060643266801",
       "https://twitter.com/netblocks/status/2114004970907578437",
@@ -624,7 +624,8 @@
       "https://twitter.com/netblocks/status/2108732716510593291",
       "https://twitter.com/netblocks/status/2117395659200577883",
       "https://twitter.com/netblocks/status/2117627039285236021",
-      "https://twitter.com/netblocks/status/2117635386272858218"
+      "https://twitter.com/netblocks/status/2117635386272858218",
+      "https://twitter.com/netblocks/status/2120630206792622450"
     ]
   },
   "France24": {
@@ -1464,11 +1465,8 @@
   },
   "Clash Report": {
     "username": "ClashReport",
-    "last_guid": "https://twitter.com/clashreport/status/2120629044731404319",
+    "last_guid": "https://twitter.com/clashreport/status/2120630149381312971",
     "seen": [
-      "https://twitter.com/clashreport/status/2120499961859019170",
-      "https://twitter.com/clashreport/status/2120502975734968514",
-      "https://twitter.com/clashreport/status/2120503516372324496",
       "https://twitter.com/clashreport/status/2120503577198076233",
       "https://twitter.com/clashreport/status/2120503974964916440",
       "https://twitter.com/clashreport/status/2120504214816194592",
@@ -1565,7 +1563,10 @@
       "https://twitter.com/clashreport/status/2120626727265120679",
       "https://twitter.com/clashreport/status/2120627179608576408",
       "https://twitter.com/clashreport/status/2120627667611664640",
-      "https://twitter.com/clashreport/status/2120629044731404319"
+      "https://twitter.com/clashreport/status/2120629044731404319",
+      "https://twitter.com/clashreport/status/2120630518211326372",
+      "https://twitter.com/clashreport/status/2120629704625401895",
+      "https://twitter.com/clashreport/status/2120630149381312971"
     ]
   }
 }
