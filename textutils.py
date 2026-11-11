@@ -435,7 +435,9 @@ def _translate_cloudflare_llm(text: str, model: str = None) -> str:
     if len(out) >= 2 and out[0] == out[-1] and out[0] in "\"'":
         out = out[1:-1].strip()
     if not out:
-        raise RuntimeError("Cloudflare LLM: خروجی خالی")
+        # ساختار پاسخ را در پیام خطا می‌ذاریم تا معلوم بشه مدل چی برگردونده (مثلاً فقط «reasoning» یا قطع‌شدن با finish_reason=length)
+        import json as _json
+        raise RuntimeError("Cloudflare LLM: خروجی خالی | " + _json.dumps(result, ensure_ascii=False)[:300])
     return out
 
 
@@ -625,6 +627,8 @@ def _is_rate_limit(err) -> bool:
 
 def _block_seconds(err) -> int:
     """محدودیت/کلید نامعتبر: به‌اندازه‌ی TRANSLATE_BLOCK_MINUTES. خطاهای دیگه: ۲ دقیقه."""
+    if "Cloudflare LLM: خروجی خالی" in str(err):
+        return 3600  # مدل جواب خالی می‌ده (و احتمالاً neuron خرج می‌کنه)؛ تا آخر همین اجرا و یک ساعت بعد امتحانش نکن
     if re.search(r"\b3036\b|daily free allocation|10,000 neurons", str(err), re.I):
         return _seconds_to_utc_midnight()  # سهمیه‌ی روزانه تموم شده؛ تا ۰۰:۰۰ UTC (ریست) تلاش بی‌فایده است
     if re.search(r"not allowed to access|no access to|no such model|deprecated|model.{0,30}not (found|available)", str(err), re.I):
