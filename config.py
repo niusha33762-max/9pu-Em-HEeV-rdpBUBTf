@@ -140,9 +140,10 @@ CLOUDFLARE_API_TOKEN = os.getenv("CLOUDFLARE_API_TOKEN", "").strip()
 #  - Mistral Small تقریباً ۴ برابر ارزان‌تر از Llama 70B در توکن خروجی است.
 #  - Llama 3.3 70B دقیق است ولی توکن خروجی‌اش گران است و سهمیه را زود تمام می‌کند؛ آخرین گزینه است.
 # مدلی که وجود نداشته باشد یا حساب به آن دسترسی نداشته باشد خودکار کنار گذاشته می‌شود.
+# Gemma 4 در لاگ واقعی «خروجی خالی» برگردوند (احتمالاً neuron هم خرج شد)؛ تا وقتی ساختار پاسخش بررسی نشده بعد از Mistral می‌آد.
 _cf_models = [
-    "@cf/google/gemma-4-26b-a4b-it",
     "@cf/mistralai/mistral-small-3.1-24b-instruct",
+    "@cf/google/gemma-4-26b-a4b-it",
     "@cf/meta/llama-3.3-70b-instruct-fp8-fast",
 ]
 CLOUDFLARE_LLM_MODELS = [
