@@ -1,10 +1,8 @@
 {
   "Iran Intl": {
     "username": "IranIntlbrk",
-    "last_guid": "https://twitter.com/IranIntlbrk/status/2120857688687141205",
+    "last_guid": "https://twitter.com/IranIntlbrk/status/2120859587146285374",
     "seen": [
-      "https://twitter.com/IranIntlbrk/status/2120633957805117800",
-      "https://twitter.com/IranIntlbrk/status/2120644580391707108",
       "https://twitter.com/IranIntlbrk/status/2120649885686907222",
       "https://twitter.com/IranIntlbrk/status/2120660988265398725",
       "https://twitter.com/IranIntlbrk/status/2120661395574329413",
@@ -102,7 +100,9 @@
       "https://twitter.com/IranIntlbrk/status/2120855145575506140",
       "https://twitter.com/IranIntlbrk/status/2120856319028797580",
       "https://twitter.com/IranIntlbrk/status/2120857141338841372",
-      "https://twitter.com/IranIntlbrk/status/2120857688687141205"
+      "https://twitter.com/IranIntlbrk/status/2120857688687141205",
+      "https://twitter.com/IranIntlbrk/status/2120859528266993936",
+      "https://twitter.com/IranIntlbrk/status/2120859587146285374"
     ]
   },
   "CNN": {
@@ -213,11 +213,8 @@
   },
   "Sky News": {
     "username": "SkyNewsArabia_B",
-    "last_guid": "https://twitter.com/SkyNewsArabia_B/status/2120858730556481667",
+    "last_guid": "https://twitter.com/SkyNewsArabia_B/status/2120861583224320188",
     "seen": [
-      "https://twitter.com/SkyNewsArabia_B/status/2120579638531695046",
-      "https://twitter.com/SkyNewsArabia_B/status/2120579991985627266",
-      "https://twitter.com/SkyNewsArabia_B/status/2120580042493395167",
       "https://twitter.com/SkyNewsArabia_B/status/2120581278886150632",
       "https://twitter.com/SkyNewsArabia_B/status/2120582313180643369",
       "https://twitter.com/SkyNewsArabia_B/status/2120585366717771982",
@@ -314,7 +311,10 @@
       "https://twitter.com/SkyNewsArabia_B/status/2120857593900146962",
       "https://twitter.com/SkyNewsArabia_B/status/2120857745318678905",
       "https://twitter.com/SkyNewsArabia_B/status/2120858073426448602",
-      "https://twitter.com/SkyNewsArabia_B/status/2120858730556481667"
+      "https://twitter.com/SkyNewsArabia_B/status/2120858730556481667",
+      "https://twitter.com/SkyNewsArabia_B/status/2120859615047172321",
+      "https://twitter.com/SkyNewsArabia_B/status/2120861180164211030",
+      "https://twitter.com/SkyNewsArabia_B/status/2120861583224320188"
     ]
   },
   "Shin": {
@@ -700,12 +700,8 @@
   },
   "Open Source Intel": {
     "username": "Osint613",
-    "last_guid": "https://twitter.com/Osint613/status/2120856606992728276",
+    "last_guid": "https://twitter.com/Osint613/status/2120861737872429560",
     "seen": [
-      "https://twitter.com/Osint613/status/2120536215405437281",
-      "https://twitter.com/Osint613/status/2120546475415392393",
-      "https://twitter.com/Osint613/status/2120548019196047752",
-      "https://twitter.com/Osint613/status/2120550604049109309",
       "https://twitter.com/Osint613/status/2120554423646622168",
       "https://twitter.com/Osint613/status/2120555806475055260",
       "https://twitter.com/Osint613/status/2120556183664967710",
@@ -801,7 +797,11 @@
       "https://twitter.com/Osint613/status/2120854032847896886",
       "https://twitter.com/Osint613/status/2120854500248592801",
       "https://twitter.com/Osint613/status/2120855658857697390",
-      "https://twitter.com/Osint613/status/2120856606992728276"
+      "https://twitter.com/Osint613/status/2120856606992728276",
+      "https://twitter.com/Osint613/status/2120859552019018237",
+      "https://twitter.com/Osint613/status/2120859893066306015",
+      "https://twitter.com/Osint613/status/2120860448572498082",
+      "https://twitter.com/Osint613/status/2120861737872429560"
     ]
   },
   "Channel 14": {
@@ -1369,7 +1369,7 @@
   },
   "The New York Times": {
     "username": "nytimes",
-    "last_guid": "https://twitter.com/nytimes/status/2120776451607715862",
+    "last_guid": "https://twitter.com/nytimes/status/2120861840238358911",
     "seen": [
       "https://twitter.com/nytimes/status/2118871095889502286",
       "https://twitter.com/nytimes/status/2118821352735920509",
@@ -1448,7 +1448,8 @@
       "https://twitter.com/nytimes/status/2120694343937741005",
       "https://twitter.com/nytimes/status/2120704022302847253",
       "https://twitter.com/nytimes/status/2120728657929109659",
-      "https://twitter.com/nytimes/status/2120776451607715862"
+      "https://twitter.com/nytimes/status/2120776451607715862",
+      "https://twitter.com/nytimes/status/2120861840238358911"
     ]
   },
   "TankerTrackers": {
