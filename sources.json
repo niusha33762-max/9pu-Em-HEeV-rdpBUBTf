@@ -1,9 +1,8 @@
 {
   "Iran Intl": {
     "username": "IranIntlbrk",
-    "last_guid": "https://twitter.com/IranIntlbrk/status/2121270596742832164",
+    "last_guid": "https://twitter.com/IranIntlbrk/status/2121273598824382972",
     "seen": [
-      "https://twitter.com/IranIntlbrk/status/2121005197476700184",
       "https://twitter.com/IranIntlbrk/status/2121006312456601872",
       "https://twitter.com/IranIntlbrk/status/2121009668940255565",
       "https://twitter.com/IranIntlbrk/status/2121005607767671056",
@@ -102,7 +101,8 @@
       "https://twitter.com/IranIntlbrk/status/2121266320448843873",
       "https://twitter.com/IranIntlbrk/status/2121266722808475997",
       "https://twitter.com/IranIntlbrk/status/2121269594098933901",
-      "https://twitter.com/IranIntlbrk/status/2121270596742832164"
+      "https://twitter.com/IranIntlbrk/status/2121270596742832164",
+      "https://twitter.com/IranIntlbrk/status/2121273598824382972"
     ]
   },
   "CNN": {
@@ -213,10 +213,8 @@
   },
   "Sky News": {
     "username": "SkyNewsArabia_B",
-    "last_guid": "https://twitter.com/SkyNewsArabia_B/status/2121271867390775712",
+    "last_guid": "https://twitter.com/SkyNewsArabia_B/status/2121272321201811518",
     "seen": [
-      "https://twitter.com/SkyNewsArabia_B/status/2121149697150927345",
-      "https://twitter.com/SkyNewsArabia_B/status/2121155703650074998",
       "https://twitter.com/SkyNewsArabia_B/status/2121155829055508864",
       "https://twitter.com/SkyNewsArabia_B/status/2121156282547892260",
       "https://twitter.com/SkyNewsArabia_B/status/2121156509606576306",
@@ -314,7 +312,9 @@
       "https://twitter.com/SkyNewsArabia_B/status/2121266162755649923",
       "https://twitter.com/SkyNewsArabia_B/status/2121266263418962228",
       "https://twitter.com/SkyNewsArabia_B/status/2121266364069613691",
-      "https://twitter.com/SkyNewsArabia_B/status/2121271867390775712"
+      "https://twitter.com/SkyNewsArabia_B/status/2121271867390775712",
+      "https://twitter.com/SkyNewsArabia_B/status/2121272296061194713",
+      "https://twitter.com/SkyNewsArabia_B/status/2121272321201811518"
     ]
   },
   "Shin": {
@@ -827,9 +827,8 @@
   },
   "Al Jazeera": {
     "username": "AJABreaking",
-    "last_guid": "https://twitter.com/AJABreaking/status/2121269304779809108",
+    "last_guid": "https://twitter.com/AJABreaking/status/2121273711730827484",
     "seen": [
-      "https://twitter.com/AJABreaking/status/2120938568147194095",
       "https://twitter.com/AJABreaking/status/2120953293136437578",
       "https://twitter.com/AJABreaking/status/2120958327249162699",
       "https://twitter.com/AJABreaking/status/2120959333621981301",
@@ -928,7 +927,8 @@
       "https://twitter.com/AJABreaking/status/2121264522975424854",
       "https://twitter.com/AJABreaking/status/2121264648565534829",
       "https://twitter.com/AJABreaking/status/2121269054442819584",
-      "https://twitter.com/AJABreaking/status/2121269304779809108"
+      "https://twitter.com/AJABreaking/status/2121269304779809108",
+      "https://twitter.com/AJABreaking/status/2121273711730827484"
     ]
   },
   "MiddleEast24": {
@@ -1420,9 +1420,8 @@
   },
   "Clash Report": {
     "username": "ClashReport",
-    "last_guid": "https://twitter.com/clashreport/status/2121270614006583682",
+    "last_guid": "https://twitter.com/clashreport/status/2121274388519490038",
     "seen": [
-      "https://twitter.com/clashreport/status/2121001926213161341",
       "https://twitter.com/clashreport/status/2121002186926698992",
       "https://twitter.com/clashreport/status/2121002623365197836",
       "https://twitter.com/clashreport/status/2121121659855798674",
@@ -1521,7 +1520,8 @@
       "https://twitter.com/clashreport/status/2121264822679433303",
       "https://twitter.com/clashreport/status/2121266838659277124",
       "https://twitter.com/clashreport/status/2121269888815608111",
-      "https://twitter.com/clashreport/status/2121270614006583682"
+      "https://twitter.com/clashreport/status/2121270614006583682",
+      "https://twitter.com/clashreport/status/2121274388519490038"
     ]
   }
 }
