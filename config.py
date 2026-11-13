@@ -26,7 +26,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip()
 CHANNEL_ID = os.getenv("CHANNEL_ID", "").strip()   # مثل @mychannel یا -100123456789
 ADMIN_ID = _int("ADMIN_ID", 0)
 PORT = _int("PORT", 10000)
-SIGNATURE = os.getenv("CHANNEL_SIGNATURE")  # امضای پایین هر پست
+SIGNATURE = os.getenv("CHANNEL_SIGNATURE") or "@XNewsCafe"  # امضای پایین هر پست
 
 # ---------- گیت‌هاب (ذخیره‌ی دائمی sources.json و filters.json) ----------
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "").strip()
@@ -74,6 +74,8 @@ if LONG_CAPTION_MODE not in ("preview", "photo_first"):
 SEND_VIDEO = _bool("SEND_VIDEO", "1")            # ارسال ویدیوی توییت
 MAX_VIDEO_MB = _int("MAX_VIDEO_MB", 50)          # سقف آپلود بات در تلگرام ۵۰ مگابایته
 POST_WITHOUT_CAPTION = _bool("POST_WITHOUT_CAPTION", "0")  # ارسال توییت‌هایی که فقط مدیا دارن و متن ندارن
+# اگه ترجمه‌ی کامل نشد (مثلاً بخشی از متن عربی ترجمه‌نشده ماند): 0 = بهترین نتیجه ارسال بشه، 1 = ارسال نشه و دوباره تلاش بشه
+STRICT_TRANSLATION = _bool("STRICT_TRANSLATION", "0")
 POST_UNTRANSLATED = _bool("POST_UNTRANSLATED", "0")        # اگه ترجمه شکست خورد، متن اصلی ارسال بشه؟
 # instanceهای Lingva (پراکسی گوگل ترنسلیت؛ درخواست از IP خود instance به گوگل می‌ره نه IP رندر)
 LINGVA_INSTANCES = [
