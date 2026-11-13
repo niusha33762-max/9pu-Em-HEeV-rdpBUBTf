@@ -395,6 +395,37 @@ def neuron_usage_line() -> str:
         return line + " — تخمین از ری‌استارت بات؛ عدد دقیق در داشبورد کلودفلر"
 
 
+_ARABIC_LETTERS = re.compile("[\u0643\u064A\u0629\u0649\u0624\u0623\u0625]")   # ك ي ة ى ؤ أ إ  (مخصوص عربی)
+
+
+def _system_prompt(text: str) -> str:
+    """دستور مدل: با اشاره به زبان مبدأ (عربی) و در تلاش دوم با تأکید بر ترجمه‌ی کامل."""
+    prompt = CF_LLM_SYSTEM
+    if _guess_source_lang(text) == "ar":
+        prompt += (" The source text is Arabic. Translate it into natural Persian (Farsi) using Persian words and grammar; "
+                   "do not leave Arabic phrases or sentences in the output.")
+    if getattr(_ctx, "strict", False):
+        prompt += (" IMPORTANT: a previous answer left some Arabic sentences untranslated. "
+                   "Translate EVERY sentence completely; the output must contain no Arabic sentences at all.")
+    return prompt
+
+
+def _arabic_leftover(result: str) -> int:
+    """تعداد جمله‌های عربیِ ترجمه‌نشده در خروجی (جمله‌های ۴ کلمه‌ای یا بیشتر که نشانه‌ی فارسی ندارن)."""
+    count = 0
+    for sent in re.split(r"[\n.!?\u061F:\u061B]+", result):
+        words = sent.split()
+        if len(words) < 4 or not _ARABIC_SCRIPT.search(sent):
+            continue
+        norm = sent.replace("\u064A", "\u06CC").replace("\u0643", "\u06A9")   # ي→ی و ك→ک تا فارسیِ تایپ‌شده با کیبورد عربی عربی حساب نشه
+        if _PERSIAN_ONLY.search(sent) or _PERSIAN_WORDS.search(norm):
+            continue
+        al_words = sum(1 for w in words if w.startswith("\u0627\u0644") and len(w) > 3)
+        if len(_ARABIC_LETTERS.findall(sent)) >= 2 or al_words >= 2:
+            count += 1
+    return count
+
+
 CF_LLM_SYSTEM = (
     "You are a professional news translator. Translate the user's text into Persian (Farsi). "
     "Rules: translate faithfully; never add, remove or change facts; keep names of people, places, "
@@ -411,7 +442,7 @@ def _translate_cloudflare_llm(text: str, model: str = None) -> str:
         headers={"Authorization": f"Bearer {config.CLOUDFLARE_API_TOKEN}"},
         json={
             "messages": [
-                {"role": "system", "content": CF_LLM_SYSTEM},
+                {"role": "system", "content": _system_prompt(text)},
                 {"role": "user", "content": text},
             ],
             "max_tokens": 1500,
@@ -449,7 +480,7 @@ def _translate_openai_compat(text: str, slot: dict) -> str:
         json={
             "model": slot["model"],
             "messages": [
-                {"role": "system", "content": CF_LLM_SYSTEM},
+                {"role": "system", "content": _system_prompt(text)},
                 {"role": "user", "content": text},
             ],
             "temperature": 0,
@@ -759,6 +790,8 @@ def _translate_core(text: str):
 
     unchanged = None
     tried = False
+    best = None            # (تعداد جمله‌ی عربیِ باقی‌مانده, متن) بهترین خروجیِ ناقص
+    has_arabic_src = bool(_ARABIC_SCRIPT.search(text))
     for name, fn, limit in _providers():
         if _is_blocked(name):
             continue
@@ -775,24 +808,62 @@ def _translate_core(text: str):
                     if other.startswith("cloudflare") and other != name:
                         _block(other, secs, "سهمیه‌ی روزانه‌ی حساب Cloudflare تموم شده")
             continue
-        if r.strip() != text:
-            if is_error_content(r) or not _looks_persian_output(text, r):
-                print(f"Translation ({name}): خروجی فارسی به نظر نمی‌رسه؛ رد شد: {r[:60]!r}")
+        if r.strip() == text:
+            unchanged = r
+            print(f"Translation ({name}): خروجی بدون تغییر")
+            # مدل زبانی گاهی متن عربی را همان‌طور برمی‌گرداند؛ یک بار با دستور سخت‌گیرانه‌تر
+            if has_arabic_src and name.startswith(("cloudflare_llm", "openai_compat")):
+                r = _retry_strict(name, fn, limit, text) or r
+            if r.strip() == text:
                 continue
-            if len(_cache) >= _CACHE_MAX:
-                _cache.pop(next(iter(_cache)))
-            _cache[text] = r
-            return r, True
-        unchanged = r
-        print(f"Translation ({name}): خروجی بدون تغییر")
+        if is_error_content(r) or not _looks_persian_output(text, r):
+            print(f"Translation ({name}): خروجی فارسی به نظر نمی‌رسه؛ رد شد: {r[:60]!r}")
+            continue
+        if has_arabic_src:
+            left = _arabic_leftover(r)
+            if left and name.startswith(("cloudflare_llm", "openai_compat")):
+                print(f"Translation ({name}): {left} جمله‌ی عربی ترجمه‌نشده؛ تلاش دوباره با دستور سخت‌گیرانه")
+                r2 = _retry_strict(name, fn, limit, text)
+                if r2 and r2.strip() != text and _looks_persian_output(text, r2):
+                    l2 = _arabic_leftover(r2)
+                    if l2 < left:
+                        r, left = r2, l2
+            if left:
+                print(f"Translation ({name}): هنوز {left} جمله‌ی عربی ترجمه‌نشده؛ مترجم بعدی امتحان می‌شود")
+                if best is None or left < best[0]:
+                    best = (left, r)
+                continue
+        if len(_cache) >= _CACHE_MAX:
+            _cache.pop(next(iter(_cache)))
+        _cache[text] = r
+        return r, True
 
     if not tried:
         print("⏸ همه‌ی مترجم‌ها کنار گذاشته شدن؛ پست‌ها بعداً دوباره بررسی می‌شن | "
               + " ; ".join(f"{n}: {_block_reason.get(n, '')[:60]}" for n, _f, _l in _providers()))
-    # خروجی بدون تغییر فقط برای متنی پذیرفته می‌شه که تماماً خط عربی/فارسی باشه
-    if unchanged is not None and _only_arabic_script(text):
-        return unchanged, True
+    # همه‌ی مترجم‌ها جواب دادن ولی هیچ‌کدوم کامل نبود
+    if best is not None and not config.STRICT_TRANSLATION:
+        print(f"⚠️ ترجمه‌ی ناقص (بهترین نتیجه، {best[0]} جمله‌ی عربی باقی مانده) ارسال می‌شود")
+        return best[1], True
+    if unchanged is not None and tried and not config.STRICT_TRANSLATION and has_arabic_src \
+            and not _has_persian_evidence(text):
+        print("⚠️ هیچ مترجمی متن عربی را ترجمه نکرد؛ متن اصلی ارسال می‌شود")
+        return text, True
+    if unchanged is not None and _only_arabic_script(text) and _has_persian_evidence(text):
+        return unchanged, True   # فارسی تایپ‌شده با حروف عربی
     return text, False
+
+
+def _retry_strict(name: str, fn, limit: int, text: str):
+    """همان مترجم زبانی را یک بار با دستور سخت‌گیرانه‌تر صدا می‌زند؛ در صورت خطا None."""
+    _ctx.strict = True
+    try:
+        return _run_provider(name, fn, limit, text)
+    except Exception as e:
+        print(f"Translation retry error ({name}): {e}")
+        return None
+    finally:
+        _ctx.strict = False
 
 
 def apply_glossary(text: str) -> str:
