@@ -9,7 +9,6 @@ France24 = BreakingF24_ar
 GlobalQuake = Global_Quake
 Open Source Intel = Osint613
 Channel 14 = c14english
-Al Jazeera = AJABreaking
 MiddleEast24 = MiddleEast_24
 NBC = BreakingNews
 Al Arabiya = AlArabiya_Brk
