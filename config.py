@@ -194,6 +194,7 @@ TRANSLATE_BLOCK_MINUTES = _int("TRANSLATE_BLOCK_MINUTES", 30)
 DATA_DIR = Path(os.getenv("DATA_DIR", "."))
 SOURCES_FILE = DATA_DIR / "sources.json"
 FILTERS_FILE = DATA_DIR / "filters.json"
+GLOSSARY_FILE = DATA_DIR / "glossary.txt"   # واژه‌نامه‌ی شخصی: هر خط «کلمه = ترجمه»
 
 # محدودیت‌های تلگرام
 CAPTION_LIMIT = 1024
