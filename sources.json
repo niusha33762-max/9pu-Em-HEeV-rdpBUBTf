@@ -1,11 +1,8 @@
 {
   "Iran Intl": {
     "username": "IranIntlbrk",
-    "last_guid": "https://twitter.com/IranIntlbrk/status/2121490847816630278",
+    "last_guid": "https://twitter.com/IranIntlbrk/status/2121492988413251682",
     "seen": [
-      "https://twitter.com/IranIntlbrk/status/2121226000944296332",
-      "https://twitter.com/IranIntlbrk/status/2121228179180232866",
-      "https://twitter.com/IranIntlbrk/status/2121230932019748993",
       "https://twitter.com/IranIntlbrk/status/2121234774887145820",
       "https://twitter.com/IranIntlbrk/status/2121235600175149227",
       "https://twitter.com/IranIntlbrk/status/2121239623699443869",
@@ -102,7 +99,10 @@
       "https://twitter.com/IranIntlbrk/status/2121483650693050505",
       "https://twitter.com/IranIntlbrk/status/2121485565061390425",
       "https://twitter.com/IranIntlbrk/status/2121486104977449180",
-      "https://twitter.com/IranIntlbrk/status/2121490847816630278"
+      "https://twitter.com/IranIntlbrk/status/2121490847816630278",
+      "https://twitter.com/IranIntlbrk/status/2121491533417664549",
+      "https://twitter.com/IranIntlbrk/status/2121492649991385517",
+      "https://twitter.com/IranIntlbrk/status/2121492988413251682"
     ]
   },
   "CNN": {
@@ -831,11 +831,8 @@
   },
   "Al Jazeera": {
     "username": "AJABreaking",
-    "last_guid": "https://twitter.com/AJABreaking/status/2121490047761256530",
+    "last_guid": "https://twitter.com/AJABreaking/status/2121491809792573479",
     "seen": [
-      "https://twitter.com/AJABreaking/status/2121366587911426511",
-      "https://twitter.com/AJABreaking/status/2121367594468778002",
-      "https://twitter.com/AJABreaking/status/2121367846269722934",
       "https://twitter.com/AJABreaking/status/2121367971717087729",
       "https://twitter.com/AJABreaking/status/2121368350072725935",
       "https://twitter.com/AJABreaking/status/2121369733807161398",
@@ -932,14 +929,16 @@
       "https://twitter.com/AJABreaking/status/2121459340267704725",
       "https://twitter.com/AJABreaking/status/2121486397743722620",
       "https://twitter.com/AJABreaking/status/2121486649565589577",
-      "https://twitter.com/AJABreaking/status/2121490047761256530"
+      "https://twitter.com/AJABreaking/status/2121490047761256530",
+      "https://twitter.com/AJABreaking/status/2121491181171302583",
+      "https://twitter.com/AJABreaking/status/2121491558146941370",
+      "https://twitter.com/AJABreaking/status/2121491809792573479"
     ]
   },
   "MiddleEast24": {
     "username": "MiddleEast_24",
-    "last_guid": "https://twitter.com/MiddleEast_24/status/2121489434025603425",
+    "last_guid": "https://twitter.com/MiddleEast_24/status/2121493330962071862",
     "seen": [
-      "https://twitter.com/MiddleEast_24/status/2119838678474436712",
       "https://twitter.com/MiddleEast_24/status/2119854029459370453",
       "https://twitter.com/MiddleEast_24/status/2119869883890737291",
       "https://twitter.com/MiddleEast_24/status/2119884731495874713",
@@ -1038,7 +1037,8 @@
       "https://twitter.com/MiddleEast_24/status/2121423370457698601",
       "https://twitter.com/MiddleEast_24/status/2121453317629071787",
       "https://twitter.com/MiddleEast_24/status/2121483516789547067",
-      "https://twitter.com/MiddleEast_24/status/2121489434025603425"
+      "https://twitter.com/MiddleEast_24/status/2121489434025603425",
+      "https://twitter.com/MiddleEast_24/status/2121493330962071862"
     ]
   },
   "NBC": {
