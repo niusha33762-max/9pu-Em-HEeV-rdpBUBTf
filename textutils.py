@@ -404,6 +404,7 @@ def _system_prompt(text: str) -> str:
     if _guess_source_lang(text) == "ar":
         prompt += (" The source text is Arabic. Translate it into natural Persian (Farsi) using Persian words and grammar; "
                    "do not leave Arabic phrases or sentences in the output.")
+    prompt += _glossary_hint(text)
     if getattr(_ctx, "strict", False):
         prompt += (" IMPORTANT: a previous answer left some Arabic sentences untranslated. "
                    "Translate EVERY sentence completely; the output must contain no Arabic sentences at all.")
@@ -866,10 +867,71 @@ def _retry_strict(name: str, fn, limit: int, text: str):
         _ctx.strict = False
 
 
+_glossary_cache = {"mtime": None, "entries": []}
+
+
+def _parse_glossary_line(line: str):
+    line = line.strip()
+    if not line or line.startswith("#") or "=" not in line:
+        return None
+    src, rest = line.split("=", 1)
+    parts = [p.strip() for p in rest.split("|")]
+    src, dst = src.strip(), parts[0]
+    if not src or not dst:
+        return None
+    return src, dst, [p for p in parts[1:] if p]
+
+
+def load_glossary() -> list:
+    """
+    واژه‌نامه‌ی شخصی: [(کلمه, ترجمه‌ی دلخواه, [معادل‌های غلطی که باید جایگزین بشن])].
+    منبع‌ها: عاجل=فوری (پیش‌فرض)، متغیر TRANSLATE_GLOSSARY، و فایل glossary.txt (اولویت با فایل).
+    فرمت هر خط فایل:  کلمه = ترجمه   یا   کلمه = ترجمه | معادل غلط ۱ | معادل غلط ۲
+    """
+    try:
+        mtime = config.GLOSSARY_FILE.stat().st_mtime
+    except OSError:
+        mtime = None
+    if _glossary_cache["mtime"] == mtime and _glossary_cache["entries"]:
+        return _glossary_cache["entries"]
+    entries = {src.lower(): (src, dst, []) for src, dst in config.TRANSLATE_GLOSSARY.items()}
+    if mtime is not None:
+        try:
+            for line in config.GLOSSARY_FILE.read_text(encoding="utf-8").splitlines():
+                parsed = _parse_glossary_line(line)
+                if parsed:
+                    entries[parsed[0].lower()] = parsed
+        except OSError:
+            pass
+    _glossary_cache.update(mtime=mtime, entries=list(entries.values()))
+    return _glossary_cache["entries"]
+
+
+def _word_re(term: str):
+    return re.compile(rf"(?<!\w){re.escape(term)}(?!\w)", re.I)
+
+
+def _glossary_hint(text: str) -> str:
+    """فقط واژه‌هایی از واژه‌نامه که در متن هستن، به‌عنوان دستور قطعی به مدل زبانی داده می‌شن."""
+    hits = [(s, d) for s, d, _a in load_glossary() if _word_re(s).search(text)]
+    if not hits:
+        return ""
+    pairs = "; ".join(f'"{s}" -> "{d}"' for s, d in hits[:15])
+    return (" Mandatory glossary: always translate these terms exactly as shown and never any other way: "
+            + pairs + ".")
+
+
 def apply_glossary(text: str) -> str:
-    """کلمه‌های فرهنگ لغت (مثل عاجل → فوری) را روی متن نهایی جایگزین می‌کند."""
-    for src, dst in config.TRANSLATE_GLOSSARY.items():
-        text = re.sub(rf"(?<!\w){re.escape(src)}(?!\w)", dst, text)
+    """
+    بعد از ترجمه: اگه کلمه‌ی واژه‌نامه ترجمه‌نشده مونده یا مدل معادل غلطی نوشته (بعد از «|» در فایل)،
+    با ترجمه‌ی دلخواه جایگزین می‌شه. موارد درست قبلی دست‌نخورده می‌مونن.
+    """
+    for i, (src, dst, alts) in enumerate(load_glossary()):
+        token = f"\u0000G{i}\u0000"
+        text = text.replace(dst, token)               # نمونه‌های درست قبلی (مثلاً «خبر عاجل» وقتی ترجمه‌ی دلخواه «خبر عاجل» است)
+        for term in [src] + sorted(alts, key=len, reverse=True):
+            text = _word_re(term).sub(token, text)
+        text = text.replace(token, dst)
     return text
 
 
