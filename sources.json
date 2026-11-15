@@ -425,7 +425,7 @@
   },
   "Reuters": {
     "username": "ReutersPolitics",
-    "last_guid": "https://twitter.com/ReutersPolitics/status/2122049586990600217",
+    "last_guid": "https://twitter.com/ReutersPolitics/status/2122082240477659584",
     "seen": [
       "https://twitter.com/ReutersPolitics/status/2117202662139506950",
       "https://twitter.com/ReutersPolitics/status/2116689288150601800",
@@ -525,7 +525,8 @@
       "https://twitter.com/ReutersPolitics/status/2121916139714257218",
       "https://twitter.com/ReutersPolitics/status/2121976544998420599",
       "https://twitter.com/ReutersPolitics/status/2121989202686484828",
-      "https://twitter.com/ReutersPolitics/status/2122049586990600217"
+      "https://twitter.com/ReutersPolitics/status/2122049586990600217",
+      "https://twitter.com/ReutersPolitics/status/2122082240477659584"
     ]
   },
   "NetBlocks": {
@@ -627,9 +628,8 @@
   },
   "Open Source Intel": {
     "username": "Osint613",
-    "last_guid": "https://twitter.com/Osint613/status/2122077810919637201",
+    "last_guid": "https://twitter.com/Osint613/status/2122080975102644627",
     "seen": [
-      "https://twitter.com/Osint613/status/2121756685563843071",
       "https://twitter.com/Osint613/status/2121759050845257805",
       "https://twitter.com/Osint613/status/2121760761672614318",
       "https://twitter.com/Osint613/status/2121763653951123806",
@@ -728,14 +728,14 @@
       "https://twitter.com/Osint613/status/2122074283447042057",
       "https://twitter.com/Osint613/status/2122074528868172140",
       "https://twitter.com/Osint613/status/2122075728913334726",
-      "https://twitter.com/Osint613/status/2122077810919637201"
+      "https://twitter.com/Osint613/status/2122077810919637201",
+      "https://twitter.com/Osint613/status/2122080975102644627"
     ]
   },
   "Channel 14": {
     "username": "c14english",
-    "last_guid": "https://twitter.com/c14english/status/2122065751536541706",
+    "last_guid": "https://twitter.com/c14english/status/2122081571775844775",
     "seen": [
-      "https://twitter.com/c14english/status/2120229280370348135",
       "https://twitter.com/c14english/status/2120242614418956368",
       "https://twitter.com/c14english/status/2120245916326359301",
       "https://twitter.com/c14english/status/2120252701229424763",
@@ -834,7 +834,8 @@
       "https://twitter.com/c14english/status/2122043815607533847",
       "https://twitter.com/c14english/status/2122044236820578549",
       "https://twitter.com/c14english/status/2122054168156213346",
-      "https://twitter.com/c14english/status/2122065751536541706"
+      "https://twitter.com/c14english/status/2122065751536541706",
+      "https://twitter.com/c14english/status/2122081571775844775"
     ]
   },
   "MiddleEast24": {
@@ -1337,11 +1338,8 @@
   },
   "Clash Report": {
     "username": "ClashReport",
-    "last_guid": "https://twitter.com/clashreport/status/2122080031727837244",
+    "last_guid": "https://twitter.com/clashreport/status/2122082216650129620",
     "seen": [
-      "https://twitter.com/clashreport/status/2121636380346654883",
-      "https://twitter.com/clashreport/status/2121649355442503853",
-      "https://twitter.com/clashreport/status/2121653594546123021",
       "https://twitter.com/clashreport/status/2121669072660082726",
       "https://twitter.com/clashreport/status/2121669210426294350",
       "https://twitter.com/clashreport/status/2121670335259185458",
@@ -1438,7 +1436,10 @@
       "https://twitter.com/clashreport/status/2122078012497899592",
       "https://twitter.com/clashreport/status/2122078460566814904",
       "https://twitter.com/clashreport/status/2122079470911660257",
-      "https://twitter.com/clashreport/status/2122080031727837244"
+      "https://twitter.com/clashreport/status/2122080031727837244",
+      "https://twitter.com/clashreport/status/2122081324626235770",
+      "https://twitter.com/clashreport/status/2122081777086800162",
+      "https://twitter.com/clashreport/status/2122082216650129620"
     ]
   },
   "Al Jazeera": {
