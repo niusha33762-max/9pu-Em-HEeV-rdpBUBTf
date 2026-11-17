@@ -213,10 +213,8 @@
   },
   "Sky News": {
     "username": "SkyNewsArabia_B",
-    "last_guid": "https://twitter.com/SkyNewsArabia_B/status/2122675170909565295",
+    "last_guid": "https://twitter.com/SkyNewsArabia_B/status/2122679866869137556",
     "seen": [
-      "https://twitter.com/SkyNewsArabia_B/status/2122367078955164015",
-      "https://twitter.com/SkyNewsArabia_B/status/2122367508242178105",
       "https://twitter.com/SkyNewsArabia_B/status/2122367583622209807",
       "https://twitter.com/SkyNewsArabia_B/status/2122367760525410633",
       "https://twitter.com/SkyNewsArabia_B/status/2122368165049200724",
@@ -314,7 +312,9 @@
       "https://twitter.com/SkyNewsArabia_B/status/2122667292928737508",
       "https://twitter.com/SkyNewsArabia_B/status/2122672899878502530",
       "https://twitter.com/SkyNewsArabia_B/status/2122673429161939060",
-      "https://twitter.com/SkyNewsArabia_B/status/2122675170909565295"
+      "https://twitter.com/SkyNewsArabia_B/status/2122675170909565295",
+      "https://twitter.com/SkyNewsArabia_B/status/2122679159369744684",
+      "https://twitter.com/SkyNewsArabia_B/status/2122679866869137556"
     ]
   },
   "Shin": {
@@ -633,10 +633,8 @@
   },
   "Open Source Intel": {
     "username": "Osint613",
-    "last_guid": "https://twitter.com/Osint613/status/2122678346878157279",
+    "last_guid": "https://twitter.com/Osint613/status/2122681116339409257",
     "seen": [
-      "https://twitter.com/Osint613/status/2122412398724382898",
-      "https://twitter.com/Osint613/status/2122412515543986238",
       "https://twitter.com/Osint613/status/2122412840103333976",
       "https://twitter.com/Osint613/status/2122417288657903987",
       "https://twitter.com/Osint613/status/2122417779328586190",
@@ -734,7 +732,9 @@
       "https://twitter.com/Osint613/status/2122677762293211287",
       "https://twitter.com/Osint613/status/2122677927732969477",
       "https://twitter.com/Osint613/status/2122678226015408165",
-      "https://twitter.com/Osint613/status/2122678346878157279"
+      "https://twitter.com/Osint613/status/2122678346878157279",
+      "https://twitter.com/Osint613/status/2122680218045608375",
+      "https://twitter.com/Osint613/status/2122681116339409257"
     ]
   },
   "Channel 14": {
@@ -990,10 +990,8 @@
   },
   "Al Arabiya": {
     "username": "AlArabiya_Brk",
-    "last_guid": "https://twitter.com/AlArabiya_Brk/status/2122678949796843832",
+    "last_guid": "https://twitter.com/AlArabiya_Brk/status/2122680864895128031",
     "seen": [
-      "https://twitter.com/AlArabiya_Brk/status/2122096610440024301",
-      "https://twitter.com/AlArabiya_Brk/status/2122096722843156491",
       "https://twitter.com/AlArabiya_Brk/status/2122135373400687102",
       "https://twitter.com/AlArabiya_Brk/status/2122157752319389781",
       "https://twitter.com/AlArabiya_Brk/status/2122402326094705138",
@@ -1091,7 +1089,9 @@
       "https://twitter.com/AlArabiya_Brk/status/2122674596969132447",
       "https://twitter.com/AlArabiya_Brk/status/2122678046377263519",
       "https://twitter.com/AlArabiya_Brk/status/2122678736868835581",
-      "https://twitter.com/AlArabiya_Brk/status/2122678949796843832"
+      "https://twitter.com/AlArabiya_Brk/status/2122678949796843832",
+      "https://twitter.com/AlArabiya_Brk/status/2122680359351447631",
+      "https://twitter.com/AlArabiya_Brk/status/2122680864895128031"
     ]
   },
   "FOX": {
@@ -1450,7 +1450,7 @@
   },
   "Al Jazeera": {
     "username": "AJENews",
-    "last_guid": "https://twitter.com/AJENews/status/2122629644725711285",
+    "last_guid": "https://twitter.com/AJENews/status/2122681338125808030",
     "seen": [
       "https://twitter.com/AJENews/status/2121550295100489877",
       "https://twitter.com/AJENews/status/2121422509627052347",
@@ -1478,7 +1478,8 @@
       "https://twitter.com/AJENews/status/2122249203673944265",
       "https://twitter.com/AJENews/status/2122594001526165939",
       "https://twitter.com/AJENews/status/2122601891221655667",
-      "https://twitter.com/AJENews/status/2122629644725711285"
+      "https://twitter.com/AJENews/status/2122629644725711285",
+      "https://twitter.com/AJENews/status/2122681338125808030"
     ]
   }
 }
