@@ -213,9 +213,8 @@
   },
   "Sky News": {
     "username": "SkyNewsArabia_B",
-    "last_guid": "https://twitter.com/SkyNewsArabia_B/status/2122815361234157686",
+    "last_guid": "https://twitter.com/SkyNewsArabia_B/status/2122399963401347378",
     "seen": [
-      "https://twitter.com/SkyNewsArabia_B/status/2122405173100421179",
       "https://twitter.com/SkyNewsArabia_B/status/2122407573102133574",
       "https://twitter.com/SkyNewsArabia_B/status/2122407875230478670",
       "https://twitter.com/SkyNewsArabia_B/status/2122420145180316086",
@@ -314,7 +313,8 @@
       "https://twitter.com/SkyNewsArabia_B/status/2122807636676796674",
       "https://twitter.com/SkyNewsArabia_B/status/2122807687163580702",
       "https://twitter.com/SkyNewsArabia_B/status/2122811548775440478",
-      "https://twitter.com/SkyNewsArabia_B/status/2122815361234157686"
+      "https://twitter.com/SkyNewsArabia_B/status/2122815361234157686",
+      "https://twitter.com/SkyNewsArabia_B/status/2122399963401347378"
     ]
   },
   "Shin": {
@@ -425,9 +425,8 @@
   },
   "Reuters": {
     "username": "ReutersPolitics",
-    "last_guid": "https://twitter.com/ReutersPolitics/status/2122774423560188296",
+    "last_guid": "https://twitter.com/ReutersPolitics/status/2122819740989108276",
     "seen": [
-      "https://twitter.com/ReutersPolitics/status/2116251419330109796",
       "https://twitter.com/ReutersPolitics/status/2116012276117352843",
       "https://twitter.com/ReutersPolitics/status/2115994730072777035",
       "https://twitter.com/ReutersPolitics/status/2115949415307329925",
@@ -526,7 +525,8 @@
       "https://twitter.com/ReutersPolitics/status/2122505048965980175",
       "https://twitter.com/ReutersPolitics/status/2122517711188119901",
       "https://twitter.com/ReutersPolitics/status/2122578106586218524",
-      "https://twitter.com/ReutersPolitics/status/2122774423560188296"
+      "https://twitter.com/ReutersPolitics/status/2122774423560188296",
+      "https://twitter.com/ReutersPolitics/status/2122819740989108276"
     ]
   },
   "NetBlocks": {
@@ -1205,9 +1205,8 @@
   },
   "The New York Times": {
     "username": "nytimes",
-    "last_guid": "https://twitter.com/nytimes/status/2122816015176183838",
+    "last_guid": "https://twitter.com/nytimes/status/2122819131397312885",
     "seen": [
-      "https://twitter.com/nytimes/status/2119996026467619216",
       "https://twitter.com/nytimes/status/2120256759868666229",
       "https://twitter.com/nytimes/status/2120267193573056650",
       "https://twitter.com/nytimes/status/2120276447495376936",
@@ -1306,7 +1305,8 @@
       "https://twitter.com/nytimes/status/2122783356077167005",
       "https://twitter.com/nytimes/status/2122790893925057020",
       "https://twitter.com/nytimes/status/2122809656884056171",
-      "https://twitter.com/nytimes/status/2122816015176183838"
+      "https://twitter.com/nytimes/status/2122816015176183838",
+      "https://twitter.com/nytimes/status/2122819131397312885"
     ]
   },
   "TankerTrackers": {
@@ -1349,10 +1349,8 @@
   },
   "Clash Report": {
     "username": "ClashReport",
-    "last_guid": "https://twitter.com/clashreport/status/2122815900893983171",
+    "last_guid": "https://twitter.com/clashreport/status/2122819893703713172",
     "seen": [
-      "https://twitter.com/clashreport/status/2122649268762615874",
-      "https://twitter.com/clashreport/status/2122654607377575958",
       "https://twitter.com/clashreport/status/2122660304052207948",
       "https://twitter.com/clashreport/status/2122661235611087047",
       "https://twitter.com/clashreport/status/2122662665789100511",
@@ -1450,7 +1448,9 @@
       "https://twitter.com/clashreport/status/2122814753143927114",
       "https://twitter.com/clashreport/status/2122815241348153505",
       "https://twitter.com/clashreport/status/2122815632425222608",
-      "https://twitter.com/clashreport/status/2122815900893983171"
+      "https://twitter.com/clashreport/status/2122815900893983171",
+      "https://twitter.com/clashreport/status/2122818633080652226",
+      "https://twitter.com/clashreport/status/2122819893703713172"
     ]
   },
   "Al Jazeera": {
