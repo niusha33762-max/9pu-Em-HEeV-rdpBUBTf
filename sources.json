@@ -213,12 +213,8 @@
   },
   "Sky News": {
     "username": "SkyNewsArabia_B",
-    "last_guid": "https://twitter.com/SkyNewsArabia_B/status/2122825408718799112",
+    "last_guid": "https://twitter.com/SkyNewsArabia_B/status/2122832351441105015",
     "seen": [
-      "https://twitter.com/SkyNewsArabia_B/status/2122407875230478670",
-      "https://twitter.com/SkyNewsArabia_B/status/2122420145180316086",
-      "https://twitter.com/SkyNewsArabia_B/status/2122420296229740810",
-      "https://twitter.com/SkyNewsArabia_B/status/2122425774057877572",
       "https://twitter.com/SkyNewsArabia_B/status/2122425776243147057",
       "https://twitter.com/SkyNewsArabia_B/status/2122425778256433247",
       "https://twitter.com/SkyNewsArabia_B/status/2122425780269666519",
@@ -314,7 +310,11 @@
       "https://twitter.com/SkyNewsArabia_B/status/2122811548775440478",
       "https://twitter.com/SkyNewsArabia_B/status/2122815361234157686",
       "https://twitter.com/SkyNewsArabia_B/status/2122399963401347378",
-      "https://twitter.com/SkyNewsArabia_B/status/2122825408718799112"
+      "https://twitter.com/SkyNewsArabia_B/status/2122825408718799112",
+      "https://twitter.com/SkyNewsArabia_B/status/2122830382941016081",
+      "https://twitter.com/SkyNewsArabia_B/status/2122830457717018878",
+      "https://twitter.com/SkyNewsArabia_B/status/2122830508510106058",
+      "https://twitter.com/SkyNewsArabia_B/status/2122832351441105015"
     ]
   },
   "Shin": {
@@ -1349,11 +1349,8 @@
   },
   "Clash Report": {
     "username": "ClashReport",
-    "last_guid": "https://twitter.com/clashreport/status/2122829769956077779",
+    "last_guid": "https://twitter.com/clashreport/status/2122831995650592917",
     "seen": [
-      "https://twitter.com/clashreport/status/2122671790853923247",
-      "https://twitter.com/clashreport/status/2122672330925015112",
-      "https://twitter.com/clashreport/status/2122672491495920067",
       "https://twitter.com/clashreport/status/2122673134566314402",
       "https://twitter.com/clashreport/status/2122673505707729293",
       "https://twitter.com/clashreport/status/2122673795303686636",
@@ -1450,7 +1447,10 @@
       "https://twitter.com/clashreport/status/2122828193941909654",
       "https://twitter.com/clashreport/status/2122828783468040385",
       "https://twitter.com/clashreport/status/2122829407593373994",
-      "https://twitter.com/clashreport/status/2122829769956077779"
+      "https://twitter.com/clashreport/status/2122829769956077779",
+      "https://twitter.com/clashreport/status/2122830557327266038",
+      "https://twitter.com/clashreport/status/2122831199299068329",
+      "https://twitter.com/clashreport/status/2122831995650592917"
     ]
   },
   "Al Jazeera": {
