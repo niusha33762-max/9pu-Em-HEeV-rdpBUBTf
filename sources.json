@@ -1200,9 +1200,8 @@
   },
   "The New York Times": {
     "username": "nytimes",
-    "last_guid": "https://twitter.com/nytimes/status/2122514488897540298",
+    "last_guid": "https://twitter.com/nytimes/status/2122528914908262585",
     "seen": [
-      "https://twitter.com/nytimes/status/2120244684173791441",
       "https://twitter.com/nytimes/status/2120244423904669956",
       "https://twitter.com/nytimes/status/2120237897240432705",
       "https://twitter.com/nytimes/status/2120293099926880313",
@@ -1301,7 +1300,8 @@
       "https://twitter.com/nytimes/status/2122453233121497404",
       "https://twitter.com/nytimes/status/2122462177466437695",
       "https://twitter.com/nytimes/status/2122481243426295924",
-      "https://twitter.com/nytimes/status/2122514488897540298"
+      "https://twitter.com/nytimes/status/2122514488897540298",
+      "https://twitter.com/nytimes/status/2122528914908262585"
     ]
   },
   "TankerTrackers": {
