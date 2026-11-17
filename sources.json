@@ -988,13 +988,8 @@
   },
   "Al Arabiya": {
     "username": "AlArabiya_Brk",
-    "last_guid": "https://twitter.com/AlArabiya_Brk/status/2122475778071736505",
+    "last_guid": "https://twitter.com/AlArabiya_Brk/status/2122483884394733948",
     "seen": [
-      "https://twitter.com/AlArabiya_Brk/status/2122337535791681559",
-      "https://twitter.com/AlArabiya_Brk/status/2122337845520085292",
-      "https://twitter.com/AlArabiya_Brk/status/2122337977107972287",
-      "https://twitter.com/AlArabiya_Brk/status/2122338211456246215",
-      "https://twitter.com/AlArabiya_Brk/status/2122338453530525751",
       "https://twitter.com/AlArabiya_Brk/status/2122338652843811003",
       "https://twitter.com/AlArabiya_Brk/status/2122340399297564976",
       "https://twitter.com/AlArabiya_Brk/status/2122340485872164869",
@@ -1089,7 +1084,12 @@
       "https://twitter.com/AlArabiya_Brk/status/2122475514006778180",
       "https://twitter.com/AlArabiya_Brk/status/2122475597112762721",
       "https://twitter.com/AlArabiya_Brk/status/2122475691430064636",
-      "https://twitter.com/AlArabiya_Brk/status/2122475778071736505"
+      "https://twitter.com/AlArabiya_Brk/status/2122475778071736505",
+      "https://twitter.com/AlArabiya_Brk/status/2122481524087894202",
+      "https://twitter.com/AlArabiya_Brk/status/2122481821111796167",
+      "https://twitter.com/AlArabiya_Brk/status/2122482105250669009",
+      "https://twitter.com/AlArabiya_Brk/status/2122483694216581283",
+      "https://twitter.com/AlArabiya_Brk/status/2122483884394733948"
     ]
   },
   "FOX": {
@@ -1200,9 +1200,8 @@
   },
   "The New York Times": {
     "username": "nytimes",
-    "last_guid": "https://twitter.com/nytimes/status/2122462177466437695",
+    "last_guid": "https://twitter.com/nytimes/status/2122481243426295924",
     "seen": [
-      "https://twitter.com/nytimes/status/2119889389891314112",
       "https://twitter.com/nytimes/status/2120254191633330514",
       "https://twitter.com/nytimes/status/2120244684173791441",
       "https://twitter.com/nytimes/status/2120244423904669956",
@@ -1301,7 +1300,8 @@
       "https://twitter.com/nytimes/status/2122398071216640131",
       "https://twitter.com/nytimes/status/2122443239999357439",
       "https://twitter.com/nytimes/status/2122453233121497404",
-      "https://twitter.com/nytimes/status/2122462177466437695"
+      "https://twitter.com/nytimes/status/2122462177466437695",
+      "https://twitter.com/nytimes/status/2122481243426295924"
     ]
   },
   "TankerTrackers": {
