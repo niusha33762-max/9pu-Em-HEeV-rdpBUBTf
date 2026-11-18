@@ -213,10 +213,8 @@
   },
   "Sky News": {
     "username": "SkyNewsArabia_B",
-    "last_guid": "https://twitter.com/SkyNewsArabia_B/status/2122855244124377464",
+    "last_guid": "https://twitter.com/SkyNewsArabia_B/status/2122857692457058530",
     "seen": [
-      "https://twitter.com/SkyNewsArabia_B/status/2122460309462167705",
-      "https://twitter.com/SkyNewsArabia_B/status/2122462203953762493",
       "https://twitter.com/SkyNewsArabia_B/status/2122462228943429857",
       "https://twitter.com/SkyNewsArabia_B/status/2122462305002864916",
       "https://twitter.com/SkyNewsArabia_B/status/2122462481708994873",
@@ -314,7 +312,9 @@
       "https://twitter.com/SkyNewsArabia_B/status/2122854815630065774",
       "https://twitter.com/SkyNewsArabia_B/status/2122854890691240161",
       "https://twitter.com/SkyNewsArabia_B/status/2122854941291422087",
-      "https://twitter.com/SkyNewsArabia_B/status/2122855244124377464"
+      "https://twitter.com/SkyNewsArabia_B/status/2122855244124377464",
+      "https://twitter.com/SkyNewsArabia_B/status/2122857642322473298",
+      "https://twitter.com/SkyNewsArabia_B/status/2122857692457058530"
     ]
   },
   "Shin": {
@@ -635,11 +635,8 @@
   },
   "Open Source Intel": {
     "username": "Osint613",
-    "last_guid": "https://twitter.com/Osint613/status/2122856289747468355",
+    "last_guid": "https://twitter.com/Osint613/status/2122860073923846181",
     "seen": [
-      "https://twitter.com/Osint613/status/2122647955299541107",
-      "https://twitter.com/Osint613/status/2122648945910264239",
-      "https://twitter.com/Osint613/status/2122649556982849588",
       "https://twitter.com/Osint613/status/2122649880552460389",
       "https://twitter.com/Osint613/status/2122651081658573229",
       "https://twitter.com/Osint613/status/2122651719893164112",
@@ -736,7 +733,10 @@
       "https://twitter.com/Osint613/status/2122835911792869826",
       "https://twitter.com/Osint613/status/2122843431320113513",
       "https://twitter.com/Osint613/status/2122854825469628465",
-      "https://twitter.com/Osint613/status/2122856289747468355"
+      "https://twitter.com/Osint613/status/2122856289747468355",
+      "https://twitter.com/Osint613/status/2122858572593889539",
+      "https://twitter.com/Osint613/status/2122859731278774641",
+      "https://twitter.com/Osint613/status/2122860073923846181"
     ]
   },
   "Channel 14": {
@@ -993,14 +993,8 @@
   },
   "Al Arabiya": {
     "username": "AlArabiya_Brk",
-    "last_guid": "https://twitter.com/AlArabiya_Brk/status/2122854746369241210",
+    "last_guid": "https://twitter.com/AlArabiya_Brk/status/2122859927701954745",
     "seen": [
-      "https://twitter.com/AlArabiya_Brk/status/2122716506471489563",
-      "https://twitter.com/AlArabiya_Brk/status/2122716772629422440",
-      "https://twitter.com/AlArabiya_Brk/status/2122717965116129306",
-      "https://twitter.com/AlArabiya_Brk/status/2122719653210317273",
-      "https://twitter.com/AlArabiya_Brk/status/2122721596880089359",
-      "https://twitter.com/AlArabiya_Brk/status/2122722512790237665",
       "https://twitter.com/AlArabiya_Brk/status/2122722670743552168",
       "https://twitter.com/AlArabiya_Brk/status/2122723711513939980",
       "https://twitter.com/AlArabiya_Brk/status/2122724022051914037",
@@ -1094,7 +1088,13 @@
       "https://twitter.com/AlArabiya_Brk/status/2122853063685751002",
       "https://twitter.com/AlArabiya_Brk/status/2122853359199682685",
       "https://twitter.com/AlArabiya_Brk/status/2122853555077877860",
-      "https://twitter.com/AlArabiya_Brk/status/2122854746369241210"
+      "https://twitter.com/AlArabiya_Brk/status/2122854746369241210",
+      "https://twitter.com/AlArabiya_Brk/status/2122858092299800903",
+      "https://twitter.com/AlArabiya_Brk/status/2122858180795322604",
+      "https://twitter.com/AlArabiya_Brk/status/2122858272608678357",
+      "https://twitter.com/AlArabiya_Brk/status/2122858857760190886",
+      "https://twitter.com/AlArabiya_Brk/status/2122859187369660527",
+      "https://twitter.com/AlArabiya_Brk/status/2122859927701954745"
     ]
   },
   "FOX": {
