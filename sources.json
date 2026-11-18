@@ -1,11 +1,8 @@
 {
   "Iran Intl": {
     "username": "IranIntlbrk",
-    "last_guid": "https://twitter.com/IranIntlbrk/status/2122950335631147461",
+    "last_guid": "https://twitter.com/IranIntlbrk/status/2122955434260943248",
     "seen": [
-      "https://twitter.com/IranIntlbrk/status/2122716070289039543",
-      "https://twitter.com/IranIntlbrk/status/2122716496468083178",
-      "https://twitter.com/IranIntlbrk/status/2122716556299792439",
       "https://twitter.com/IranIntlbrk/status/2122717270891769932",
       "https://twitter.com/IranIntlbrk/status/2122718407175164316",
       "https://twitter.com/IranIntlbrk/status/2122721833162293340",
@@ -102,7 +99,10 @@
       "https://twitter.com/IranIntlbrk/status/2122949018472808937",
       "https://twitter.com/IranIntlbrk/status/2122949888455418249",
       "https://twitter.com/IranIntlbrk/status/2122950324675899565",
-      "https://twitter.com/IranIntlbrk/status/2122950335631147461"
+      "https://twitter.com/IranIntlbrk/status/2122950335631147461",
+      "https://twitter.com/IranIntlbrk/status/2122953803280388396",
+      "https://twitter.com/IranIntlbrk/status/2122955043506954509",
+      "https://twitter.com/IranIntlbrk/status/2122955434260943248"
     ]
   },
   "CNN": {
@@ -425,9 +425,8 @@
   },
   "Reuters": {
     "username": "ReutersPolitics",
-    "last_guid": "https://twitter.com/ReutersPolitics/status/2122910305508323403",
+    "last_guid": "https://twitter.com/ReutersPolitics/status/2122955550400938363",
     "seen": [
-      "https://twitter.com/ReutersPolitics/status/2115934315972296718",
       "https://twitter.com/ReutersPolitics/status/2115921705763774539",
       "https://twitter.com/ReutersPolitics/status/2115861288412762388",
       "https://twitter.com/ReutersPolitics/status/2115858822640058681",
@@ -526,7 +525,8 @@
       "https://twitter.com/ReutersPolitics/status/2122819740989108276",
       "https://twitter.com/ReutersPolitics/status/2122837265692905864",
       "https://twitter.com/ReutersPolitics/status/2122882566990533113",
-      "https://twitter.com/ReutersPolitics/status/2122910305508323403"
+      "https://twitter.com/ReutersPolitics/status/2122910305508323403",
+      "https://twitter.com/ReutersPolitics/status/2122955550400938363"
     ]
   },
   "NetBlocks": {
@@ -635,10 +635,8 @@
   },
   "Open Source Intel": {
     "username": "Osint613",
-    "last_guid": "https://twitter.com/Osint613/status/2122953196897194058",
+    "last_guid": "https://twitter.com/Osint613/status/2122954685384429884",
     "seen": [
-      "https://twitter.com/Osint613/status/2122666581436084704",
-      "https://twitter.com/Osint613/status/2122669095850221972",
       "https://twitter.com/Osint613/status/2122669265849352540",
       "https://twitter.com/Osint613/status/2122676469310669135",
       "https://twitter.com/Osint613/status/2122676550986567915",
@@ -736,7 +734,9 @@
       "https://twitter.com/Osint613/status/2122939499411833175",
       "https://twitter.com/Osint613/status/2122943040738501085",
       "https://twitter.com/Osint613/status/2122952431709655393",
-      "https://twitter.com/Osint613/status/2122953196897194058"
+      "https://twitter.com/Osint613/status/2122953196897194058",
+      "https://twitter.com/Osint613/status/2122953923124187581",
+      "https://twitter.com/Osint613/status/2122954685384429884"
     ]
   },
   "Channel 14": {
@@ -1349,9 +1349,8 @@
   },
   "Clash Report": {
     "username": "ClashReport",
-    "last_guid": "https://twitter.com/clashreport/status/2122940960900317292",
+    "last_guid": "https://twitter.com/clashreport/status/2122953452636541377",
     "seen": [
-      "https://twitter.com/clashreport/status/2122715670139793532",
       "https://twitter.com/clashreport/status/2122715791262958051",
       "https://twitter.com/clashreport/status/2122720146770858403",
       "https://twitter.com/clashreport/status/2122720826000642447",
@@ -1450,7 +1449,8 @@
       "https://twitter.com/clashreport/status/2122939766442226113",
       "https://twitter.com/clashreport/status/2122940184199102786",
       "https://twitter.com/clashreport/status/2122940606397755643",
-      "https://twitter.com/clashreport/status/2122940960900317292"
+      "https://twitter.com/clashreport/status/2122940960900317292",
+      "https://twitter.com/clashreport/status/2122953452636541377"
     ]
   },
   "Al Jazeera": {
