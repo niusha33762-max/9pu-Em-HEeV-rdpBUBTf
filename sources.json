@@ -1,11 +1,8 @@
 {
   "Iran Intl": {
     "username": "IranIntlbrk",
-    "last_guid": "https://twitter.com/IranIntlbrk/status/2123316135844061453",
+    "last_guid": "https://twitter.com/IranIntlbrk/status/2123320500743012578",
     "seen": [
-      "https://twitter.com/IranIntlbrk/status/2123042045941993718",
-      "https://twitter.com/IranIntlbrk/status/2123042863751577900",
-      "https://twitter.com/IranIntlbrk/status/2123046036973539356",
       "https://twitter.com/IranIntlbrk/status/2123046747589013901",
       "https://twitter.com/IranIntlbrk/status/2123049404252745852",
       "https://twitter.com/IranIntlbrk/status/2123051588617167141",
@@ -102,7 +99,10 @@
       "https://twitter.com/IranIntlbrk/status/2123309276135555279",
       "https://twitter.com/IranIntlbrk/status/2123311174657679592",
       "https://twitter.com/IranIntlbrk/status/2123312683537633520",
-      "https://twitter.com/IranIntlbrk/status/2123316135844061453"
+      "https://twitter.com/IranIntlbrk/status/2123316135844061453",
+      "https://twitter.com/IranIntlbrk/status/2123319358818775147",
+      "https://twitter.com/IranIntlbrk/status/2123319930959564877",
+      "https://twitter.com/IranIntlbrk/status/2123320500743012578"
     ]
   },
   "CNN": {
@@ -213,9 +213,8 @@
   },
   "Sky News": {
     "username": "SkyNewsArabia_B",
-    "last_guid": "https://twitter.com/SkyNewsArabia_B/status/2123317954649763965",
+    "last_guid": "https://twitter.com/SkyNewsArabia_B/status/2123318787747537184",
     "seen": [
-      "https://twitter.com/SkyNewsArabia_B/status/2123117884809609490",
       "https://twitter.com/SkyNewsArabia_B/status/2123141188010353011",
       "https://twitter.com/SkyNewsArabia_B/status/2123145376811389231",
       "https://twitter.com/SkyNewsArabia_B/status/2123148253646717050",
@@ -314,7 +313,8 @@
       "https://twitter.com/SkyNewsArabia_B/status/2123315253907984524",
       "https://twitter.com/SkyNewsArabia_B/status/2123316642881114473",
       "https://twitter.com/SkyNewsArabia_B/status/2123317929957814587",
-      "https://twitter.com/SkyNewsArabia_B/status/2123317954649763965"
+      "https://twitter.com/SkyNewsArabia_B/status/2123317954649763965",
+      "https://twitter.com/SkyNewsArabia_B/status/2123318787747537184"
     ]
   },
   "Shin": {
@@ -1353,10 +1353,8 @@
   },
   "Clash Report": {
     "username": "ClashReport",
-    "last_guid": "https://twitter.com/clashreport/status/2123314689153138692",
+    "last_guid": "https://twitter.com/clashreport/status/2123320239014191610",
     "seen": [
-      "https://twitter.com/clashreport/status/2123126311321489688",
-      "https://twitter.com/clashreport/status/2123126524731887969",
       "https://twitter.com/clashreport/status/2123126877682593829",
       "https://twitter.com/clashreport/status/2123127296647131455",
       "https://twitter.com/clashreport/status/2123127989839806641",
@@ -1454,7 +1452,9 @@
       "https://twitter.com/clashreport/status/2123313126594769109",
       "https://twitter.com/clashreport/status/2123313874782875718",
       "https://twitter.com/clashreport/status/2123314411364594151",
-      "https://twitter.com/clashreport/status/2123314689153138692"
+      "https://twitter.com/clashreport/status/2123314689153138692",
+      "https://twitter.com/clashreport/status/2123318491671417107",
+      "https://twitter.com/clashreport/status/2123320239014191610"
     ]
   },
   "Al Jazeera": {
