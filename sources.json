@@ -1110,9 +1110,8 @@
   },
   "FOX": {
     "username": "FoxNewsPolitics",
-    "last_guid": "https://twitter.com/foxnewspolitics/status/2123748987006304729",
+    "last_guid": "https://twitter.com/foxnewspolitics/status/2123763878404460879",
     "seen": [
-      "https://twitter.com/foxnewspolitics/status/2121001012857315684",
       "https://twitter.com/foxnewspolitics/status/2121083382776189164",
       "https://twitter.com/foxnewspolitics/status/2121166641908367431",
       "https://twitter.com/foxnewspolitics/status/2121212056187858998",
@@ -1211,7 +1210,8 @@
       "https://twitter.com/foxnewspolitics/status/2123617369293729944",
       "https://twitter.com/foxnewspolitics/status/2123718541904052708",
       "https://twitter.com/foxnewspolitics/status/2123733726031204620",
-      "https://twitter.com/foxnewspolitics/status/2123748987006304729"
+      "https://twitter.com/foxnewspolitics/status/2123748987006304729",
+      "https://twitter.com/foxnewspolitics/status/2123763878404460879"
     ]
   },
   "The New York Times": {
@@ -1363,13 +1363,8 @@
   },
   "Clash Report": {
     "username": "ClashReport",
-    "last_guid": "https://twitter.com/clashreport/status/2123760164574781688",
+    "last_guid": "https://twitter.com/clashreport/status/2123766107462893950",
     "seen": [
-      "https://twitter.com/clashreport/status/2123437287744962611",
-      "https://twitter.com/clashreport/status/2123438708409905587",
-      "https://twitter.com/clashreport/status/2123438987884790143",
-      "https://twitter.com/clashreport/status/2123439490756714591",
-      "https://twitter.com/clashreport/status/2123439963643543611",
       "https://twitter.com/clashreport/status/2123440022057591039",
       "https://twitter.com/clashreport/status/2123440540826153185",
       "https://twitter.com/clashreport/status/2123441169191301214",
@@ -1464,7 +1459,12 @@
       "https://twitter.com/clashreport/status/2123751908355584468",
       "https://twitter.com/clashreport/status/2123752510980583426",
       "https://twitter.com/clashreport/status/2123757161326968851",
-      "https://twitter.com/clashreport/status/2123760164574781688"
+      "https://twitter.com/clashreport/status/2123760164574781688",
+      "https://twitter.com/clashreport/status/2123764068779782512",
+      "https://twitter.com/clashreport/status/2123764207401537697",
+      "https://twitter.com/clashreport/status/2123764972240920705",
+      "https://twitter.com/clashreport/status/2123765375997534534",
+      "https://twitter.com/clashreport/status/2123766107462893950"
     ]
   },
   "Al Jazeera": {
