@@ -1,10 +1,8 @@
 {
   "Iran Intl": {
     "username": "IranIntlbrk",
-    "last_guid": "https://twitter.com/IranIntlbrk/status/2123848783653961782",
+    "last_guid": "https://twitter.com/IranIntlbrk/status/2123853897844350982",
     "seen": [
-      "https://twitter.com/IranIntlbrk/status/2123679920328954298",
-      "https://twitter.com/IranIntlbrk/status/2123688329510330766",
       "https://twitter.com/IranIntlbrk/status/2123689036002763156",
       "https://twitter.com/IranIntlbrk/status/2123689935777452035",
       "https://twitter.com/IranIntlbrk/status/2123692867335897254",
@@ -102,7 +100,9 @@
       "https://twitter.com/IranIntlbrk/status/2123841901547954604",
       "https://twitter.com/IranIntlbrk/status/2123845281041334381",
       "https://twitter.com/IranIntlbrk/status/2123848351301206234",
-      "https://twitter.com/IranIntlbrk/status/2123848783653961782"
+      "https://twitter.com/IranIntlbrk/status/2123848783653961782",
+      "https://twitter.com/IranIntlbrk/status/2123853165036753328",
+      "https://twitter.com/IranIntlbrk/status/2123853897844350982"
     ]
   },
   "CNN": {
@@ -319,9 +319,8 @@
   },
   "Shin": {
     "username": "hey_itsmyturn",
-    "last_guid": "https://twitter.com/hey_itsmyturn/status/2123844343165239349",
+    "last_guid": "https://twitter.com/hey_itsmyturn/status/2123851790592471274",
     "seen": [
-      "https://twitter.com/hey_itsmyturn/status/2123066028427002319",
       "https://twitter.com/hey_itsmyturn/status/2123067163774681219",
       "https://twitter.com/hey_itsmyturn/status/2123070540315271460",
       "https://twitter.com/hey_itsmyturn/status/2123075003931324664",
@@ -420,7 +419,8 @@
       "https://twitter.com/hey_itsmyturn/status/2123823090291425663",
       "https://twitter.com/hey_itsmyturn/status/2123825632539009451",
       "https://twitter.com/hey_itsmyturn/status/2123832258561798167",
-      "https://twitter.com/hey_itsmyturn/status/2123844343165239349"
+      "https://twitter.com/hey_itsmyturn/status/2123844343165239349",
+      "https://twitter.com/hey_itsmyturn/status/2123851790592471274"
     ]
   },
   "Reuters": {
@@ -857,9 +857,8 @@
   },
   "MiddleEast24": {
     "username": "MiddleEast_24",
-    "last_guid": "https://twitter.com/MiddleEast_24/status/2123843819255058837",
+    "last_guid": "https://twitter.com/MiddleEast_24/status/2123854137284767997",
     "seen": [
-      "https://twitter.com/MiddleEast_24/status/2121787558594334822",
       "https://twitter.com/MiddleEast_24/status/2121800606406881565",
       "https://twitter.com/MiddleEast_24/status/2121800956065034322",
       "https://twitter.com/MiddleEast_24/status/2121805387351593216",
@@ -958,7 +957,8 @@
       "https://twitter.com/MiddleEast_24/status/2123793739709907430",
       "https://twitter.com/MiddleEast_24/status/2123823939411406900",
       "https://twitter.com/MiddleEast_24/status/2123839037605814299",
-      "https://twitter.com/MiddleEast_24/status/2123843819255058837"
+      "https://twitter.com/MiddleEast_24/status/2123843819255058837",
+      "https://twitter.com/MiddleEast_24/status/2123854137284767997"
     ]
   },
   "NBC": {
@@ -1364,15 +1364,8 @@
   },
   "Clash Report": {
     "username": "ClashReport",
-    "last_guid": "https://twitter.com/clashreport/status/2123851524409643229",
+    "last_guid": "https://twitter.com/clashreport/status/2123853725437739353",
     "seen": [
-      "https://twitter.com/clashreport/status/2123736715038699781",
-      "https://twitter.com/clashreport/status/2123737871886549206",
-      "https://twitter.com/clashreport/status/2123423215196287010",
-      "https://twitter.com/clashreport/status/2123739689249079435",
-      "https://twitter.com/clashreport/status/2027804563164573893",
-      "https://twitter.com/clashreport/status/2123743204881187096",
-      "https://twitter.com/clashreport/status/2123747788852781516",
       "https://twitter.com/clashreport/status/2123751908355584468",
       "https://twitter.com/clashreport/status/2123752510980583426",
       "https://twitter.com/clashreport/status/2123757161326968851",
@@ -1465,7 +1458,14 @@
       "https://twitter.com/clashreport/status/2123850661804798227",
       "https://twitter.com/clashreport/status/2123850892675817509",
       "https://twitter.com/clashreport/status/2123851195533967851",
-      "https://twitter.com/clashreport/status/2123851524409643229"
+      "https://twitter.com/clashreport/status/2123851524409643229",
+      "https://twitter.com/clashreport/status/2123851832883880443",
+      "https://twitter.com/clashreport/status/2123852537682174206",
+      "https://twitter.com/clashreport/status/2123852564009488651",
+      "https://twitter.com/clashreport/status/2123852968277708845",
+      "https://twitter.com/clashreport/status/2123853211295727741",
+      "https://twitter.com/clashreport/status/2123853709494853898",
+      "https://twitter.com/clashreport/status/2123853725437739353"
     ]
   },
   "Al Jazeera": {
