@@ -213,10 +213,8 @@
   },
   "Sky News": {
     "username": "SkyNewsArabia_B",
-    "last_guid": "https://twitter.com/SkyNewsArabia_B/status/2123560508557308065",
+    "last_guid": "https://twitter.com/SkyNewsArabia_B/status/2123572728540299658",
     "seen": [
-      "https://twitter.com/SkyNewsArabia_B/status/2123386071539225087",
-      "https://twitter.com/SkyNewsArabia_B/status/2123386349449621740",
       "https://twitter.com/SkyNewsArabia_B/status/2123386551040397364",
       "https://twitter.com/SkyNewsArabia_B/status/2123386803776598439",
       "https://twitter.com/SkyNewsArabia_B/status/2123386929781805229",
@@ -314,7 +312,9 @@
       "https://twitter.com/SkyNewsArabia_B/status/2123560407638126793",
       "https://twitter.com/SkyNewsArabia_B/status/2123560458234048634",
       "https://twitter.com/SkyNewsArabia_B/status/2123560483726959059",
-      "https://twitter.com/SkyNewsArabia_B/status/2123560508557308065"
+      "https://twitter.com/SkyNewsArabia_B/status/2123560508557308065",
+      "https://twitter.com/SkyNewsArabia_B/status/2123572653676191924",
+      "https://twitter.com/SkyNewsArabia_B/status/2123572728540299658"
     ]
   },
   "Shin": {
@@ -641,9 +641,8 @@
   },
   "Open Source Intel": {
     "username": "Osint613",
-    "last_guid": "https://twitter.com/Osint613/status/2123572052770856961",
+    "last_guid": "https://twitter.com/Osint613/status/2123574544749220235",
     "seen": [
-      "https://twitter.com/Osint613/status/2123339589129572392",
       "https://twitter.com/Osint613/status/2123340927712280817",
       "https://twitter.com/Osint613/status/2123341108780437751",
       "https://twitter.com/Osint613/status/2123341422032273415",
@@ -742,7 +741,8 @@
       "https://twitter.com/Osint613/status/2123545523600982290",
       "https://twitter.com/Osint613/status/2123546884161618009",
       "https://twitter.com/Osint613/status/2123560963513180364",
-      "https://twitter.com/Osint613/status/2123572052770856961"
+      "https://twitter.com/Osint613/status/2123572052770856961",
+      "https://twitter.com/Osint613/status/2123574544749220235"
     ]
   },
   "Channel 14": {
@@ -1000,9 +1000,8 @@
   },
   "Al Arabiya": {
     "username": "AlArabiya_Brk",
-    "last_guid": "https://twitter.com/AlArabiya_Brk/status/2123572279636267413",
+    "last_guid": "https://twitter.com/AlArabiya_Brk/status/2123572681937146196",
     "seen": [
-      "https://twitter.com/AlArabiya_Brk/status/2123415147070832798",
       "https://twitter.com/AlArabiya_Brk/status/2123416567933194574",
       "https://twitter.com/AlArabiya_Brk/status/2123416839694811158",
       "https://twitter.com/AlArabiya_Brk/status/2123423502753562787",
@@ -1101,7 +1100,8 @@
       "https://twitter.com/AlArabiya_Brk/status/2123563725177163952",
       "https://twitter.com/AlArabiya_Brk/status/2123567045744677113",
       "https://twitter.com/AlArabiya_Brk/status/2123572050555986083",
-      "https://twitter.com/AlArabiya_Brk/status/2123572279636267413"
+      "https://twitter.com/AlArabiya_Brk/status/2123572279636267413",
+      "https://twitter.com/AlArabiya_Brk/status/2123572681937146196"
     ]
   },
   "FOX": {
@@ -1212,9 +1212,8 @@
   },
   "The New York Times": {
     "username": "nytimes",
-    "last_guid": "https://twitter.com/nytimes/status/2123569362426830920",
+    "last_guid": "https://twitter.com/nytimes/status/2123573429991301456",
     "seen": [
-      "https://twitter.com/nytimes/status/2121260061611659526",
       "https://twitter.com/nytimes/status/2121263573485646004",
       "https://twitter.com/nytimes/status/2121275929095754153",
       "https://twitter.com/nytimes/status/2121280343202562332",
@@ -1313,7 +1312,8 @@
       "https://twitter.com/nytimes/status/2123526792648839288",
       "https://twitter.com/nytimes/status/2123546442539135027",
       "https://twitter.com/nytimes/status/2123555680325943718",
-      "https://twitter.com/nytimes/status/2123569362426830920"
+      "https://twitter.com/nytimes/status/2123569362426830920",
+      "https://twitter.com/nytimes/status/2123573429991301456"
     ]
   },
   "TankerTrackers": {
