@@ -319,9 +319,8 @@
   },
   "Shin": {
     "username": "hey_itsmyturn",
-    "last_guid": "https://twitter.com/hey_itsmyturn/status/2124223940390220251",
+    "last_guid": "https://twitter.com/hey_itsmyturn/status/2124226125727502507",
     "seen": [
-      "https://twitter.com/hey_itsmyturn/status/2027648271783457113",
       "https://twitter.com/hey_itsmyturn/status/2123341075435717015",
       "https://twitter.com/hey_itsmyturn/status/2123342707292549136",
       "https://twitter.com/hey_itsmyturn/status/2123378746212159961",
@@ -420,14 +419,14 @@
       "https://twitter.com/hey_itsmyturn/status/2124213983171264620",
       "https://twitter.com/hey_itsmyturn/status/2124217577807188135",
       "https://twitter.com/hey_itsmyturn/status/2124221541323878533",
-      "https://twitter.com/hey_itsmyturn/status/2124223940390220251"
+      "https://twitter.com/hey_itsmyturn/status/2124223940390220251",
+      "https://twitter.com/hey_itsmyturn/status/2124226125727502507"
     ]
   },
   "Reuters": {
     "username": "ReutersPolitics",
-    "last_guid": "https://twitter.com/ReutersPolitics/status/2123861557725495422",
+    "last_guid": "https://twitter.com/ReutersPolitics/status/2124226398877286674",
     "seen": [
-      "https://twitter.com/ReutersPolitics/status/2117459388852023778",
       "https://twitter.com/ReutersPolitics/status/2117670764115529788",
       "https://twitter.com/ReutersPolitics/status/2117731186260820447",
       "https://twitter.com/ReutersPolitics/status/2117733611856171447",
@@ -526,7 +525,8 @@
       "https://twitter.com/ReutersPolitics/status/2123592223656657334",
       "https://twitter.com/ReutersPolitics/status/2123604825145213122",
       "https://twitter.com/ReutersPolitics/status/2123665234460049577",
-      "https://twitter.com/ReutersPolitics/status/2123861557725495422"
+      "https://twitter.com/ReutersPolitics/status/2123861557725495422",
+      "https://twitter.com/ReutersPolitics/status/2124226398877286674"
     ]
   },
   "NetBlocks": {
@@ -647,12 +647,8 @@
   },
   "Open Source Intel": {
     "username": "Osint613",
-    "last_guid": "https://twitter.com/Osint613/status/2124223539083370988",
+    "last_guid": "https://twitter.com/Osint613/status/2124226482885230643",
     "seen": [
-      "https://twitter.com/Osint613/status/2123686129522155679",
-      "https://twitter.com/Osint613/status/2123690893962104975",
-      "https://twitter.com/Osint613/status/2123692050096820297",
-      "https://twitter.com/Osint613/status/2123693212019699840",
       "https://twitter.com/Osint613/status/2123694794836980054",
       "https://twitter.com/Osint613/status/2123698045430964433",
       "https://twitter.com/Osint613/status/2123698773993910727",
@@ -748,7 +744,11 @@
       "https://twitter.com/Osint613/status/2124218003256488017",
       "https://twitter.com/Osint613/status/2124219010078191876",
       "https://twitter.com/Osint613/status/2124221895562440913",
-      "https://twitter.com/Osint613/status/2124223539083370988"
+      "https://twitter.com/Osint613/status/2124223539083370988",
+      "https://twitter.com/Osint613/status/2124224187833409667",
+      "https://twitter.com/Osint613/status/2124225040661000622",
+      "https://twitter.com/Osint613/status/2124225519332053405",
+      "https://twitter.com/Osint613/status/2124226482885230643"
     ]
   },
   "Channel 14": {
@@ -1114,9 +1114,8 @@
   },
   "The New York Times": {
     "username": "nytimes",
-    "last_guid": "https://twitter.com/nytimes/status/2124105052247691580",
+    "last_guid": "https://twitter.com/nytimes/status/2124226353771823564",
     "seen": [
-      "https://twitter.com/nytimes/status/2122327767173767444",
       "https://twitter.com/nytimes/status/2122335306380652730",
       "https://twitter.com/nytimes/status/2122336434623283675",
       "https://twitter.com/nytimes/status/2122340924176883858",
@@ -1215,7 +1214,8 @@
       "https://twitter.com/nytimes/status/2123950081447776376",
       "https://twitter.com/nytimes/status/2123974718717821119",
       "https://twitter.com/nytimes/status/2123995391465230442",
-      "https://twitter.com/nytimes/status/2124105052247691580"
+      "https://twitter.com/nytimes/status/2124105052247691580",
+      "https://twitter.com/nytimes/status/2124226353771823564"
     ]
   },
   "TankerTrackers": {
@@ -1263,7 +1263,7 @@
   },
   "Al Jazeera": {
     "username": "AJENews",
-    "last_guid": "https://twitter.com/AJENews/status/2124205176043303029",
+    "last_guid": "https://twitter.com/AJENews/status/2124226148078948437",
     "seen": [
       "https://twitter.com/AJENews/status/2121550295100489877",
       "https://twitter.com/AJENews/status/2121422509627052347",
@@ -1324,7 +1324,8 @@
       "https://twitter.com/AJENews/status/2124150609771212891",
       "https://twitter.com/AJENews/status/2124154216868380991",
       "https://twitter.com/AJENews/status/2124167057717465452",
-      "https://twitter.com/AJENews/status/2124205176043303029"
+      "https://twitter.com/AJENews/status/2124205176043303029",
+      "https://twitter.com/AJENews/status/2124226148078948437"
     ]
   },
   "Al Hadath": {
