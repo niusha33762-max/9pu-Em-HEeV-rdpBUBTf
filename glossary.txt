@@ -11,3 +11,4 @@ Hegseth = هگسث
 فنلندا = فنلاند
 Araghchi = عراقچی
 CENTCOM = سنتکام
+Vice President = معاون رئیس‌جمهور
