@@ -7,3 +7,4 @@ Shahbaz = شهباز
 العربیة = العربیة
 BIG: = خبر بزرگ:
 Zelensky = زلنسکی
+Hegseth = هگسث
