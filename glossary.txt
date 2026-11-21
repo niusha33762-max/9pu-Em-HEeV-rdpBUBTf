@@ -16,3 +16,4 @@ President = رئیس‌جمهور
 Leader = رهبر
 Hakim = حکیم
 Hakeem = حکیم
+الحدث = الحدث
