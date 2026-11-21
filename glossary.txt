@@ -9,3 +9,4 @@ BIG: = خبر بزرگ:
 Zelensky = زلنسکی
 Hegseth = هگسث
 فنلندا = فنلاند
+Araghchi = عراقچی
