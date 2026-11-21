@@ -12,3 +12,4 @@ Hegseth = هگسث
 Araghchi = عراقچی
 CENTCOM = سنتکام
 Vice President = معاون رئیس‌جمهور
+President = رئیس‌جمهور
