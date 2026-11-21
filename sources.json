@@ -1,11 +1,8 @@
 {
   "Iran Intl": {
     "username": "IranIntlbrk",
-    "last_guid": "https://twitter.com/IranIntlbrk/status/2124153447041663347",
+    "last_guid": "https://twitter.com/IranIntlbrk/status/2124155652108857668",
     "seen": [
-      "https://twitter.com/IranIntlbrk/status/2123841901547954604",
-      "https://twitter.com/IranIntlbrk/status/2123845281041334381",
-      "https://twitter.com/IranIntlbrk/status/2123848351301206234",
       "https://twitter.com/IranIntlbrk/status/2123848783653961782",
       "https://twitter.com/IranIntlbrk/status/2123853165036753328",
       "https://twitter.com/IranIntlbrk/status/2123853897844350982",
@@ -102,7 +99,10 @@
       "https://twitter.com/IranIntlbrk/status/2124144272899293578",
       "https://twitter.com/IranIntlbrk/status/2124149512797339687",
       "https://twitter.com/IranIntlbrk/status/2124150267901837425",
-      "https://twitter.com/IranIntlbrk/status/2124153447041663347"
+      "https://twitter.com/IranIntlbrk/status/2124153447041663347",
+      "https://twitter.com/IranIntlbrk/status/2124153945635664329",
+      "https://twitter.com/IranIntlbrk/status/2124154816192483605",
+      "https://twitter.com/IranIntlbrk/status/2124155652108857668"
     ]
   },
   "CNN": {
@@ -1473,7 +1473,7 @@
   },
   "Al Jazeera": {
     "username": "AJENews",
-    "last_guid": "https://twitter.com/AJENews/status/2124150609771212891",
+    "last_guid": "https://twitter.com/AJENews/status/2124154216868380991",
     "seen": [
       "https://twitter.com/AJENews/status/2121550295100489877",
       "https://twitter.com/AJENews/status/2121422509627052347",
@@ -1531,7 +1531,8 @@
       "https://twitter.com/AJENews/status/2123818637395984729",
       "https://twitter.com/AJENews/status/2124057806676304240",
       "https://twitter.com/AJENews/status/2124096434743947306",
-      "https://twitter.com/AJENews/status/2124150609771212891"
+      "https://twitter.com/AJENews/status/2124150609771212891",
+      "https://twitter.com/AJENews/status/2124154216868380991"
     ]
   }
 }
