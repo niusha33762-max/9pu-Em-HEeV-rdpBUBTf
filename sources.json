@@ -1,10 +1,8 @@
 {
   "Iran Intl": {
     "username": "IranIntlbrk",
-    "last_guid": "https://twitter.com/IranIntlbrk/status/2124144272899293578",
+    "last_guid": "https://twitter.com/IranIntlbrk/status/2124150267901837425",
     "seen": [
-      "https://twitter.com/IranIntlbrk/status/2123837080031695151",
-      "https://twitter.com/IranIntlbrk/status/2123838842998489564",
       "https://twitter.com/IranIntlbrk/status/2123841584487879155",
       "https://twitter.com/IranIntlbrk/status/2123841901547954604",
       "https://twitter.com/IranIntlbrk/status/2123845281041334381",
@@ -102,7 +100,9 @@
       "https://twitter.com/IranIntlbrk/status/2124139522334322907",
       "https://twitter.com/IranIntlbrk/status/2124140640296656996",
       "https://twitter.com/IranIntlbrk/status/2124143059679973435",
-      "https://twitter.com/IranIntlbrk/status/2124144272899293578"
+      "https://twitter.com/IranIntlbrk/status/2124144272899293578",
+      "https://twitter.com/IranIntlbrk/status/2124149512797339687",
+      "https://twitter.com/IranIntlbrk/status/2124150267901837425"
     ]
   },
   "CNN": {
@@ -1473,7 +1473,7 @@
   },
   "Al Jazeera": {
     "username": "AJENews",
-    "last_guid": "https://twitter.com/AJENews/status/2124096434743947306",
+    "last_guid": "https://twitter.com/AJENews/status/2124150609771212891",
     "seen": [
       "https://twitter.com/AJENews/status/2121550295100489877",
       "https://twitter.com/AJENews/status/2121422509627052347",
@@ -1530,7 +1530,8 @@
       "https://twitter.com/AJENews/status/2123781224011268150",
       "https://twitter.com/AJENews/status/2123818637395984729",
       "https://twitter.com/AJENews/status/2124057806676304240",
-      "https://twitter.com/AJENews/status/2124096434743947306"
+      "https://twitter.com/AJENews/status/2124096434743947306",
+      "https://twitter.com/AJENews/status/2124150609771212891"
     ]
   }
 }
