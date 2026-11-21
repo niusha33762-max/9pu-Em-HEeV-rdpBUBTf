@@ -14,3 +14,4 @@ CENTCOM = سنتکام
 Vice President = معاون رئیس‌جمهور
 President = رئیس‌جمهور
 Leader = رهبر
+Hakim = حکیم
