@@ -10,3 +10,4 @@ Zelensky = زلنسکی
 Hegseth = هگسث
 فنلندا = فنلاند
 Araghchi = عراقچی
+CENTCOM = سنتکام
