@@ -14,6 +14,5 @@ NBC = BreakingNews
 FOX = FoxNewsPolitics
 The New York Times = nytimes
 TankerTrackers = TankerTrackers
-Clash Report = ClashReport
 Al Jazeera = AJENews
 Al Hadath = alhadath_brk
