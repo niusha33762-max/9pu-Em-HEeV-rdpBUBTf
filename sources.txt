@@ -11,7 +11,6 @@ Open Source Intel = Osint613
 Channel 14 = c14english
 MiddleEast24 = MiddleEast_24
 NBC = BreakingNews
-Al Arabiya = AlArabiya_Brk
 FOX = FoxNewsPolitics
 The New York Times = nytimes
 TankerTrackers = TankerTrackers
