@@ -19,3 +19,4 @@ Hakeem = حکیم
 الحدث = الحدث
 Clash Report = Clash Report
 ClashReport = Clash Report
+مراسل = خبرنگار
