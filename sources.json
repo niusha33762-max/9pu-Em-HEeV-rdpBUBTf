@@ -319,10 +319,8 @@
   },
   "Shin": {
     "username": "hey_itsmyturn",
-    "last_guid": "https://twitter.com/hey_itsmyturn/status/2124483013694120207",
+    "last_guid": "https://twitter.com/hey_itsmyturn/status/2124490668168872176",
     "seen": [
-      "https://twitter.com/hey_itsmyturn/status/2123662831157383294",
-      "https://twitter.com/hey_itsmyturn/status/2123668433459876266",
       "https://twitter.com/hey_itsmyturn/status/2123669428973826091",
       "https://twitter.com/hey_itsmyturn/status/2123669504097972612",
       "https://twitter.com/hey_itsmyturn/status/2123696787600888026",
@@ -420,7 +418,9 @@
       "https://twitter.com/hey_itsmyturn/status/2124469487751577725",
       "https://twitter.com/hey_itsmyturn/status/2124469651245519013",
       "https://twitter.com/hey_itsmyturn/status/2124477301748318557",
-      "https://twitter.com/hey_itsmyturn/status/2124483013694120207"
+      "https://twitter.com/hey_itsmyturn/status/2124483013694120207",
+      "https://twitter.com/hey_itsmyturn/status/2124490408222753204",
+      "https://twitter.com/hey_itsmyturn/status/2124490668168872176"
     ]
   },
   "Reuters": {
@@ -1010,10 +1010,8 @@
   },
   "FOX": {
     "username": "FoxNewsPolitics",
-    "last_guid": "https://twitter.com/foxnewspolitics/status/2124473512429805982",
+    "last_guid": "https://twitter.com/foxnewspolitics/status/2124488827331125712",
     "seen": [
-      "https://twitter.com/foxnewspolitics/status/2121995727144624586",
-      "https://twitter.com/foxnewspolitics/status/2122004027923992630",
       "https://twitter.com/foxnewspolitics/status/2122268922112356683",
       "https://twitter.com/foxnewspolitics/status/2122283770233671827",
       "https://twitter.com/foxnewspolitics/status/2122305914292306208",
@@ -1111,7 +1109,9 @@
       "https://twitter.com/foxnewspolitics/status/2124278989950984700",
       "https://twitter.com/foxnewspolitics/status/2124316229225824749",
       "https://twitter.com/foxnewspolitics/status/2124458415334560135",
-      "https://twitter.com/foxnewspolitics/status/2124473512429805982"
+      "https://twitter.com/foxnewspolitics/status/2124473512429805982",
+      "https://twitter.com/foxnewspolitics/status/2124488701824897178",
+      "https://twitter.com/foxnewspolitics/status/2124488827331125712"
     ]
   },
   "The New York Times": {
@@ -1334,15 +1334,8 @@
   },
   "Al Hadath": {
     "username": "alhadath_brk",
-    "last_guid": "https://twitter.com/Alhadath_Brk/status/2124488490259751011",
+    "last_guid": "https://twitter.com/Alhadath_Brk/status/2124490094111256636",
     "seen": [
-      "https://twitter.com/Alhadath_Brk/status/2124189063674527746",
-      "https://twitter.com/Alhadath_Brk/status/2124189584481231072",
-      "https://twitter.com/Alhadath_Brk/status/2124189819563626550",
-      "https://twitter.com/Alhadath_Brk/status/2124190243771338833",
-      "https://twitter.com/Alhadath_Brk/status/2124190463317979328",
-      "https://twitter.com/Alhadath_Brk/status/2124190643828248857",
-      "https://twitter.com/Alhadath_Brk/status/2124194558988718462",
       "https://twitter.com/Alhadath_Brk/status/2124197676640084330",
       "https://twitter.com/Alhadath_Brk/status/2124197297462395047",
       "https://twitter.com/Alhadath_Brk/status/2124197220937351510",
@@ -1435,7 +1428,14 @@
       "https://twitter.com/Alhadath_Brk/status/2124474799887991288",
       "https://twitter.com/Alhadath_Brk/status/2124482132315636130",
       "https://twitter.com/Alhadath_Brk/status/2124488190224404606",
-      "https://twitter.com/Alhadath_Brk/status/2124488490259751011"
+      "https://twitter.com/Alhadath_Brk/status/2124488490259751011",
+      "https://twitter.com/Alhadath_Brk/status/2124488853423632692",
+      "https://twitter.com/Alhadath_Brk/status/2124489116268073152",
+      "https://twitter.com/Alhadath_Brk/status/2124489583446409428",
+      "https://twitter.com/Alhadath_Brk/status/2124489874434646237",
+      "https://twitter.com/Alhadath_Brk/status/2124489968483475641",
+      "https://twitter.com/Alhadath_Brk/status/2124490010581782667",
+      "https://twitter.com/Alhadath_Brk/status/2124490094111256636"
     ]
   },
   "Clash Report": {
