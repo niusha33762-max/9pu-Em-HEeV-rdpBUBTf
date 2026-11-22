@@ -1,10 +1,8 @@
 {
   "Iran Intl": {
     "username": "IranIntlbrk",
-    "last_guid": "https://twitter.com/IranIntlbrk/status/2124596910262788495",
+    "last_guid": "https://twitter.com/IranIntlbrk/status/2124600279534592192",
     "seen": [
-      "https://twitter.com/IranIntlbrk/status/2124415872756228308",
-      "https://twitter.com/IranIntlbrk/status/2124418657941917995",
       "https://twitter.com/IranIntlbrk/status/2124419416565657728",
       "https://twitter.com/IranIntlbrk/status/2124420189714260223",
       "https://twitter.com/IranIntlbrk/status/2124420758126403760",
@@ -102,7 +100,9 @@
       "https://twitter.com/IranIntlbrk/status/2124587361388339320",
       "https://twitter.com/IranIntlbrk/status/2124588750877675705",
       "https://twitter.com/IranIntlbrk/status/2124594736988094656",
-      "https://twitter.com/IranIntlbrk/status/2124596910262788495"
+      "https://twitter.com/IranIntlbrk/status/2124596910262788495",
+      "https://twitter.com/IranIntlbrk/status/2124599207982207143",
+      "https://twitter.com/IranIntlbrk/status/2124600279534592192"
     ]
   },
   "CNN": {
@@ -319,9 +319,8 @@
   },
   "Shin": {
     "username": "hey_itsmyturn",
-    "last_guid": "https://twitter.com/hey_itsmyturn/status/2124598236639825920",
+    "last_guid": "https://twitter.com/hey_itsmyturn/status/2124601365687103717",
     "seen": [
-      "https://twitter.com/hey_itsmyturn/status/2123791665982775474",
       "https://twitter.com/hey_itsmyturn/status/2123791699797258471",
       "https://twitter.com/hey_itsmyturn/status/2123792517388755368",
       "https://twitter.com/hey_itsmyturn/status/2123792806757965845",
@@ -420,7 +419,8 @@
       "https://twitter.com/hey_itsmyturn/status/2124584889781465535",
       "https://twitter.com/hey_itsmyturn/status/2124587314177364167",
       "https://twitter.com/hey_itsmyturn/status/2124593476398375329",
-      "https://twitter.com/hey_itsmyturn/status/2124598236639825920"
+      "https://twitter.com/hey_itsmyturn/status/2124598236639825920",
+      "https://twitter.com/hey_itsmyturn/status/2124601365687103717"
     ]
   },
   "Reuters": {
@@ -648,10 +648,8 @@
   },
   "Open Source Intel": {
     "username": "Osint613",
-    "last_guid": "https://twitter.com/Osint613/status/2124597204853621187",
+    "last_guid": "https://twitter.com/Osint613/status/2124600959737164188",
     "seen": [
-      "https://twitter.com/Osint613/status/2124217247921045918",
-      "https://twitter.com/Osint613/status/2124218003256488017",
       "https://twitter.com/Osint613/status/2124219010078191876",
       "https://twitter.com/Osint613/status/2124221895562440913",
       "https://twitter.com/Osint613/status/2124223539083370988",
@@ -749,7 +747,9 @@
       "https://twitter.com/Osint613/status/2124589011356283014",
       "https://twitter.com/Osint613/status/2124591312901177549",
       "https://twitter.com/Osint613/status/2124593886953984316",
-      "https://twitter.com/Osint613/status/2124597204853621187"
+      "https://twitter.com/Osint613/status/2124597204853621187",
+      "https://twitter.com/Osint613/status/2123574544749220235",
+      "https://twitter.com/Osint613/status/2124600959737164188"
     ]
   },
   "Channel 14": {
@@ -1338,14 +1338,8 @@
   },
   "Al Hadath": {
     "username": "alhadath_brk",
-    "last_guid": "https://twitter.com/Alhadath_Brk/status/2124599138931114112",
+    "last_guid": "https://twitter.com/Alhadath_Brk/status/2124600308026245169",
     "seen": [
-      "https://twitter.com/Alhadath_Brk/status/2124494829912514921",
-      "https://twitter.com/Alhadath_Brk/status/2124496134827549000",
-      "https://twitter.com/Alhadath_Brk/status/2124496269712191995",
-      "https://twitter.com/Alhadath_Brk/status/2124496501510434839",
-      "https://twitter.com/Alhadath_Brk/status/2124500354075148427",
-      "https://twitter.com/Alhadath_Brk/status/2124500511432868057",
       "https://twitter.com/Alhadath_Brk/status/2124500665363751039",
       "https://twitter.com/Alhadath_Brk/status/2124500999381319724",
       "https://twitter.com/Alhadath_Brk/status/2124501204893921649",
@@ -1439,7 +1433,13 @@
       "https://twitter.com/Alhadath_Brk/status/2124598526046790010",
       "https://twitter.com/Alhadath_Brk/status/2124598739734045174",
       "https://twitter.com/Alhadath_Brk/status/2124599096954564723",
-      "https://twitter.com/Alhadath_Brk/status/2124599138931114112"
+      "https://twitter.com/Alhadath_Brk/status/2124599138931114112",
+      "https://twitter.com/Alhadath_Brk/status/2124599191318011916",
+      "https://twitter.com/Alhadath_Brk/status/2124599473150083140",
+      "https://twitter.com/Alhadath_Brk/status/2124599756852764756",
+      "https://twitter.com/Alhadath_Brk/status/2124599939242058140",
+      "https://twitter.com/Alhadath_Brk/status/2124600024747155539",
+      "https://twitter.com/Alhadath_Brk/status/2124600308026245169"
     ]
   },
   "Clash Report": {
