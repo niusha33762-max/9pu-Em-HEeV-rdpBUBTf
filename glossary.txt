@@ -16,7 +16,6 @@ President = رئیس‌جمهور
 Leader = رهبر
 Hakim = حکیم
 Hakeem = حکیم
-الحدث = الحدث
 Clash Report = Clash Report
 ClashReport = Clash Report
 مراسل = خبرنگار
