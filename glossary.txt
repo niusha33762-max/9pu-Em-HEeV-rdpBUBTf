@@ -21,3 +21,4 @@ Clash Report = Clash Report
 ClashReport = Clash Report
 مراسل = خبرنگار
 مراسلات = خبرنگاران
+مصادر = منابع
