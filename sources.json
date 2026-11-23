@@ -1,11 +1,8 @@
 {
   "Iran Intl": {
     "username": "IranIntlbrk",
-    "last_guid": "https://twitter.com/IranIntlbrk/status/2124744554150801616",
+    "last_guid": "https://twitter.com/IranIntlbrk/status/2124748425849917901",
     "seen": [
-      "https://twitter.com/IranIntlbrk/status/2124479828715835530",
-      "https://twitter.com/IranIntlbrk/status/2124485081070817623",
-      "https://twitter.com/IranIntlbrk/status/2124486026521710812",
       "https://twitter.com/IranIntlbrk/status/2124486702047633751",
       "https://twitter.com/IranIntlbrk/status/2124491200220549220",
       "https://twitter.com/IranIntlbrk/status/2124494834215882927",
@@ -102,7 +99,10 @@
       "https://twitter.com/IranIntlbrk/status/2124734258854199451",
       "https://twitter.com/IranIntlbrk/status/2124738100144566293",
       "https://twitter.com/IranIntlbrk/status/2124742326140465241",
-      "https://twitter.com/IranIntlbrk/status/2124744554150801616"
+      "https://twitter.com/IranIntlbrk/status/2124744554150801616",
+      "https://twitter.com/IranIntlbrk/status/2124747463781429736",
+      "https://twitter.com/IranIntlbrk/status/2124747606026813849",
+      "https://twitter.com/IranIntlbrk/status/2124748425849917901"
     ]
   },
   "CNN": {
@@ -648,9 +648,8 @@
   },
   "Open Source Intel": {
     "username": "Osint613",
-    "last_guid": "https://twitter.com/Osint613/status/2124745007470915703",
+    "last_guid": "https://twitter.com/Osint613/status/2124750022386258421",
     "seen": [
-      "https://twitter.com/Osint613/status/2124246113524056091",
       "https://twitter.com/Osint613/status/2124247330719515092",
       "https://twitter.com/Osint613/status/2124260183472037916",
       "https://twitter.com/Osint613/status/2124286473470120324",
@@ -749,7 +748,8 @@
       "https://twitter.com/Osint613/status/2124736527703986457",
       "https://twitter.com/Osint613/status/2124739181645840709",
       "https://twitter.com/Osint613/status/2124739413389320323",
-      "https://twitter.com/Osint613/status/2124745007470915703"
+      "https://twitter.com/Osint613/status/2124745007470915703",
+      "https://twitter.com/Osint613/status/2124750022386258421"
     ]
   },
   "Channel 14": {
@@ -1444,9 +1444,8 @@
   },
   "Clash Report": {
     "username": "clashreport",
-    "last_guid": "https://twitter.com/clashreport/status/2124746015093776697",
+    "last_guid": "https://twitter.com/clashreport/status/2124748242818671092",
     "seen": [
-      "https://twitter.com/clashreport/status/2027804563164573893",
       "https://twitter.com/clashreport/status/2124183472000348423",
       "https://twitter.com/clashreport/status/2124185539960074290",
       "https://twitter.com/clashreport/status/2124185592397537714",
@@ -1545,7 +1544,8 @@
       "https://twitter.com/clashreport/status/2124636103344837058",
       "https://twitter.com/clashreport/status/2124636424024817801",
       "https://twitter.com/clashreport/status/2124743182512472441",
-      "https://twitter.com/clashreport/status/2124746015093776697"
+      "https://twitter.com/clashreport/status/2124746015093776697",
+      "https://twitter.com/clashreport/status/2124748242818671092"
     ]
   }
 }
