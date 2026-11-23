@@ -25,3 +25,4 @@ ClashReport = Clash Report
 Abdul El-Sayed = عبدل‌السید
 زيلينسكي = زلنسکی
 Wadephul = واده‌فول
+قوات الإسناد الخاصة = نیروهای پشتیبانی ویژه
