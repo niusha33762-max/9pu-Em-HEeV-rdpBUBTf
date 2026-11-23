@@ -24,3 +24,4 @@ ClashReport = Clash Report
 الحدث = الحدث | رویداد | الفوری
 Abdul El-Sayed = عبدل‌السید
 زيلينسكي = زلنسکی
+Wadephul = واده‌فول
