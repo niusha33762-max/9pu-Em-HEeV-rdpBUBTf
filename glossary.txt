@@ -37,3 +37,4 @@ Eisenkot = آیزنکوت
 خليج العربي = خلیج فارس
 Arabian Gulf = خلیج فارس
 Secretary = دبیر
+Mohsen = محسن
