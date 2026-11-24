@@ -213,10 +213,8 @@
   },
   "Sky News": {
     "username": "SkyNewsArabia_B",
-    "last_guid": "https://twitter.com/SkyNewsArabia_B/status/2125295139304387018",
+    "last_guid": "https://twitter.com/SkyNewsArabia_B/status/2125296552268996725",
     "seen": [
-      "https://twitter.com/SkyNewsArabia_B/status/2124920069264494816",
-      "https://twitter.com/SkyNewsArabia_B/status/2124929890600591672",
       "https://twitter.com/SkyNewsArabia_B/status/2124940367007240630",
       "https://twitter.com/SkyNewsArabia_B/status/2124940392407965820",
       "https://twitter.com/SkyNewsArabia_B/status/2124940417481441760",
@@ -314,7 +312,9 @@
       "https://twitter.com/SkyNewsArabia_B/status/2125294735745265679",
       "https://twitter.com/SkyNewsArabia_B/status/2125295063651811576",
       "https://twitter.com/SkyNewsArabia_B/status/2125295114088243209",
-      "https://twitter.com/SkyNewsArabia_B/status/2125295139304387018"
+      "https://twitter.com/SkyNewsArabia_B/status/2125295139304387018",
+      "https://twitter.com/SkyNewsArabia_B/status/2125296199850922334",
+      "https://twitter.com/SkyNewsArabia_B/status/2125296552268996725"
     ]
   },
   "Shin": {
@@ -864,9 +864,8 @@
   },
   "MiddleEast24": {
     "username": "MiddleEast_24",
-    "last_guid": "https://twitter.com/MiddleEast_24/status/2125288589454172161",
+    "last_guid": "https://twitter.com/MiddleEast_24/status/2125298404301607006",
     "seen": [
-      "https://twitter.com/MiddleEast_24/status/2123582346368868478",
       "https://twitter.com/MiddleEast_24/status/2123612545869115464",
       "https://twitter.com/MiddleEast_24/status/2123627645023703364",
       "https://twitter.com/MiddleEast_24/status/2123657843983171883",
@@ -965,7 +964,8 @@
       "https://twitter.com/MiddleEast_24/status/2125258390435983499",
       "https://twitter.com/MiddleEast_24/status/2125265970994242035",
       "https://twitter.com/MiddleEast_24/status/2125273490064277852",
-      "https://twitter.com/MiddleEast_24/status/2125288589454172161"
+      "https://twitter.com/MiddleEast_24/status/2125288589454172161",
+      "https://twitter.com/MiddleEast_24/status/2125298404301607006"
     ]
   },
   "NBC": {
