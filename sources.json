@@ -319,9 +319,8 @@
   },
   "Shin": {
     "username": "hey_itsmyturn",
-    "last_guid": "https://twitter.com/hey_itsmyturn/status/2125607488103809434",
+    "last_guid": "https://twitter.com/hey_itsmyturn/status/2125615348888027397",
     "seen": [
-      "https://twitter.com/hey_itsmyturn/status/2124561882522550379",
       "https://twitter.com/hey_itsmyturn/status/2124566277934989554",
       "https://twitter.com/hey_itsmyturn/status/2124566965511508099",
       "https://twitter.com/hey_itsmyturn/status/2124575301560647977",
@@ -420,7 +419,8 @@
       "https://twitter.com/hey_itsmyturn/status/2125596341887758508",
       "https://twitter.com/hey_itsmyturn/status/2125603960778076600",
       "https://twitter.com/hey_itsmyturn/status/2125604002314224117",
-      "https://twitter.com/hey_itsmyturn/status/2125607488103809434"
+      "https://twitter.com/hey_itsmyturn/status/2125607488103809434",
+      "https://twitter.com/hey_itsmyturn/status/2125615348888027397"
     ]
   },
   "Reuters": {
@@ -652,11 +652,8 @@
   },
   "Open Source Intel": {
     "username": "Osint613",
-    "last_guid": "https://twitter.com/Osint613/status/2125609053388673085",
+    "last_guid": "https://twitter.com/Osint613/status/2125615298959253919",
     "seen": [
-      "https://twitter.com/Osint613/status/2125265615288156657",
-      "https://twitter.com/Osint613/status/2125268851407667566",
-      "https://twitter.com/Osint613/status/2125271839890886812",
       "https://twitter.com/Osint613/status/2125273332278771952",
       "https://twitter.com/Osint613/status/2125274678004691169",
       "https://twitter.com/Osint613/status/2125275086810734777",
@@ -753,7 +750,10 @@
       "https://twitter.com/Osint613/status/2125600397993582827",
       "https://twitter.com/Osint613/status/2125605749308948650",
       "https://twitter.com/Osint613/status/2125607926366720367",
-      "https://twitter.com/Osint613/status/2125609053388673085"
+      "https://twitter.com/Osint613/status/2125609053388673085",
+      "https://twitter.com/Osint613/status/2125614180376199562",
+      "https://twitter.com/Osint613/status/2125614544936480863",
+      "https://twitter.com/Osint613/status/2125615298959253919"
     ]
   },
   "Channel 14": {
@@ -1017,9 +1017,8 @@
   },
   "FOX": {
     "username": "FoxNewsPolitics",
-    "last_guid": "https://twitter.com/foxnewspolitics/status/2125612124861014385",
+    "last_guid": "https://twitter.com/foxnewspolitics/status/2125615645295624522",
     "seen": [
-      "https://twitter.com/foxnewspolitics/status/2122800215971463376",
       "https://twitter.com/foxnewspolitics/status/2122808546803040491",
       "https://twitter.com/foxnewspolitics/status/2122829918446989354",
       "https://twitter.com/foxnewspolitics/status/2122993759260758034",
@@ -1118,7 +1117,8 @@
       "https://twitter.com/foxnewspolitics/status/2125392193120780434",
       "https://twitter.com/foxnewspolitics/status/2125530571745132590",
       "https://twitter.com/foxnewspolitics/status/2125545912739258773",
-      "https://twitter.com/foxnewspolitics/status/2125612124861014385"
+      "https://twitter.com/foxnewspolitics/status/2125612124861014385",
+      "https://twitter.com/foxnewspolitics/status/2125615645295624522"
     ]
   },
   "The New York Times": {
@@ -1356,9 +1356,8 @@
   },
   "Clash Report": {
     "username": "clashreport",
-    "last_guid": "https://twitter.com/clashreport/status/2125606724438548780",
+    "last_guid": "https://twitter.com/clashreport/status/2125614026193351146",
     "seen": [
-      "https://twitter.com/clashreport/status/2125309428023050660",
       "https://twitter.com/clashreport/status/2125309794416493036",
       "https://twitter.com/clashreport/status/2125310353894486252",
       "https://twitter.com/clashreport/status/2125310689317388678",
@@ -1457,7 +1456,8 @@
       "https://twitter.com/clashreport/status/2125591586201575689",
       "https://twitter.com/clashreport/status/2125595370285641850",
       "https://twitter.com/clashreport/status/2125595724427436363",
-      "https://twitter.com/clashreport/status/2125606724438548780"
+      "https://twitter.com/clashreport/status/2125606724438548780",
+      "https://twitter.com/clashreport/status/2125614026193351146"
     ]
   }
 }
