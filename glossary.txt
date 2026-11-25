@@ -38,3 +38,4 @@ Eisenkot = آیزنکوت
 Arabian Gulf = خلیج فارس
 Secretary = دبیر
 Mohsen = محسن
+Jared = جرد
