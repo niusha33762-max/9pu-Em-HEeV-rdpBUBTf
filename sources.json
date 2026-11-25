@@ -319,13 +319,8 @@
   },
   "Shin": {
     "username": "hey_itsmyturn",
-    "last_guid": "https://twitter.com/hey_itsmyturn/status/2125664400946126850",
+    "last_guid": "https://twitter.com/hey_itsmyturn/status/2125673528103997640",
     "seen": [
-      "https://twitter.com/hey_itsmyturn/status/2124612744468967868",
-      "https://twitter.com/hey_itsmyturn/status/2124616930430460227",
-      "https://twitter.com/hey_itsmyturn/status/2124619392377901108",
-      "https://twitter.com/hey_itsmyturn/status/2124621053703893057",
-      "https://twitter.com/hey_itsmyturn/status/2124625084249788844",
       "https://twitter.com/hey_itsmyturn/status/2124660290528682328",
       "https://twitter.com/hey_itsmyturn/status/2124747159136248025",
       "https://twitter.com/hey_itsmyturn/status/2124803779807838462",
@@ -420,7 +415,12 @@
       "https://twitter.com/hey_itsmyturn/status/2125658725926965429",
       "https://twitter.com/hey_itsmyturn/status/2125660625770573891",
       "https://twitter.com/hey_itsmyturn/status/2125661280828555697",
-      "https://twitter.com/hey_itsmyturn/status/2125664400946126850"
+      "https://twitter.com/hey_itsmyturn/status/2125664400946126850",
+      "https://twitter.com/hey_itsmyturn/status/2125672857220866438",
+      "https://twitter.com/hey_itsmyturn/status/2125672996207489154",
+      "https://twitter.com/hey_itsmyturn/status/2125673175614689689",
+      "https://twitter.com/hey_itsmyturn/status/2125673318304952535",
+      "https://twitter.com/hey_itsmyturn/status/2125673528103997640"
     ]
   },
   "Reuters": {
@@ -653,9 +653,8 @@
   },
   "Open Source Intel": {
     "username": "Osint613",
-    "last_guid": "https://twitter.com/Osint613/status/2125668941934784658",
+    "last_guid": "https://twitter.com/Osint613/status/2125673362626425273",
     "seen": [
-      "https://twitter.com/Osint613/status/2125325417376883014",
       "https://twitter.com/Osint613/status/2125325732469735717",
       "https://twitter.com/Osint613/status/2125326385531269267",
       "https://twitter.com/Osint613/status/2125332979715088574",
@@ -754,7 +753,8 @@
       "https://twitter.com/Osint613/status/2125657826618184112",
       "https://twitter.com/Osint613/status/2125658621904126125",
       "https://twitter.com/Osint613/status/2125667384371360059",
-      "https://twitter.com/Osint613/status/2125668941934784658"
+      "https://twitter.com/Osint613/status/2125668941934784658",
+      "https://twitter.com/Osint613/status/2125673362626425273"
     ]
   },
   "Channel 14": {
@@ -1018,9 +1018,8 @@
   },
   "FOX": {
     "username": "FoxNewsPolitics",
-    "last_guid": "https://twitter.com/foxnewspolitics/status/2125670256001875972",
+    "last_guid": "https://twitter.com/foxnewspolitics/status/2125672268785479865",
     "seen": [
-      "https://twitter.com/foxnewspolitics/status/2123024206220894650",
       "https://twitter.com/foxnewspolitics/status/2123030747951055121",
       "https://twitter.com/foxnewspolitics/status/2123037798093779285",
       "https://twitter.com/foxnewspolitics/status/2123040058664185915",
@@ -1119,15 +1118,14 @@
       "https://twitter.com/foxnewspolitics/status/2125630999447093502",
       "https://twitter.com/foxnewspolitics/status/2125645361868161434",
       "https://twitter.com/foxnewspolitics/status/2125657420307603750",
-      "https://twitter.com/foxnewspolitics/status/2125670256001875972"
+      "https://twitter.com/foxnewspolitics/status/2125670256001875972",
+      "https://twitter.com/foxnewspolitics/status/2125672268785479865"
     ]
   },
   "The New York Times": {
     "username": "nytimes",
-    "last_guid": "https://twitter.com/nytimes/status/2125670045250388341",
+    "last_guid": "https://twitter.com/nytimes/status/2125673600610947390",
     "seen": [
-      "https://twitter.com/nytimes/status/2123164366405091757",
-      "https://twitter.com/nytimes/status/2123179533004067216",
       "https://twitter.com/nytimes/status/2123194753185677428",
       "https://twitter.com/nytimes/status/2123197333634699421",
       "https://twitter.com/nytimes/status/2123204678200492210",
@@ -1225,7 +1223,9 @@
       "https://twitter.com/nytimes/status/2125636903625998596",
       "https://twitter.com/nytimes/status/2125640688037487023",
       "https://twitter.com/nytimes/status/2125664324773429344",
-      "https://twitter.com/nytimes/status/2125670045250388341"
+      "https://twitter.com/nytimes/status/2125670045250388341",
+      "https://twitter.com/nytimes/status/2125672121636381150",
+      "https://twitter.com/nytimes/status/2125673600610947390"
     ]
   },
   "TankerTrackers": {
