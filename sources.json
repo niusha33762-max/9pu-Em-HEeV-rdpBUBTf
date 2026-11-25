@@ -1,10 +1,8 @@
 {
   "Iran Intl": {
     "username": "IranIntlbrk",
-    "last_guid": "https://twitter.com/IranIntlbrk/status/2125687503717888416",
+    "last_guid": "https://twitter.com/IranIntlbrk/status/2125689955120992694",
     "seen": [
-      "https://twitter.com/IranIntlbrk/status/2125510497550164039",
-      "https://twitter.com/IranIntlbrk/status/2125516305013096787",
       "https://twitter.com/IranIntlbrk/status/2125518147771895923",
       "https://twitter.com/IranIntlbrk/status/2125518664015221065",
       "https://twitter.com/IranIntlbrk/status/2125520984732299288",
@@ -102,7 +100,9 @@
       "https://twitter.com/IranIntlbrk/status/2125679175969145139",
       "https://twitter.com/IranIntlbrk/status/2125680828176835055",
       "https://twitter.com/IranIntlbrk/status/2125685606525354425",
-      "https://twitter.com/IranIntlbrk/status/2125687503717888416"
+      "https://twitter.com/IranIntlbrk/status/2125687503717888416",
+      "https://twitter.com/IranIntlbrk/status/2125689051390832824",
+      "https://twitter.com/IranIntlbrk/status/2125689955120992694"
     ]
   },
   "CNN": {
@@ -425,9 +425,8 @@
   },
   "Reuters": {
     "username": "ReutersPolitics",
-    "last_guid": "https://twitter.com/ReutersPolitics/status/2125660883195945349",
+    "last_guid": "https://twitter.com/ReutersPolitics/status/2125691067483783260",
     "seen": [
-      "https://twitter.com/ReutersPolitics/status/2118986844792668624",
       "https://twitter.com/ReutersPolitics/status/2119014570647859294",
       "https://twitter.com/ReutersPolitics/status/2119105192968798274",
       "https://twitter.com/ReutersPolitics/status/2119467584634400989",
@@ -526,7 +525,8 @@
       "https://twitter.com/ReutersPolitics/status/2125597998239342745",
       "https://twitter.com/ReutersPolitics/status/2125628219478970862",
       "https://twitter.com/ReutersPolitics/status/2125643302644912282",
-      "https://twitter.com/ReutersPolitics/status/2125660883195945349"
+      "https://twitter.com/ReutersPolitics/status/2125660883195945349",
+      "https://twitter.com/ReutersPolitics/status/2125691067483783260"
     ]
   },
   "NetBlocks": {
@@ -1018,9 +1018,8 @@
   },
   "FOX": {
     "username": "FoxNewsPolitics",
-    "last_guid": "https://twitter.com/foxnewspolitics/status/2125685352841240810",
+    "last_guid": "https://twitter.com/foxnewspolitics/status/2125690679213142210",
     "seen": [
-      "https://twitter.com/foxnewspolitics/status/2123037798093779285",
       "https://twitter.com/foxnewspolitics/status/2123040058664185915",
       "https://twitter.com/foxnewspolitics/status/2123043836389982488",
       "https://twitter.com/foxnewspolitics/status/2123067239788335349",
@@ -1119,7 +1118,8 @@
       "https://twitter.com/foxnewspolitics/status/2125657420307603750",
       "https://twitter.com/foxnewspolitics/status/2125670256001875972",
       "https://twitter.com/foxnewspolitics/status/2125672268785479865",
-      "https://twitter.com/foxnewspolitics/status/2125685352841240810"
+      "https://twitter.com/foxnewspolitics/status/2125685352841240810",
+      "https://twitter.com/foxnewspolitics/status/2125690679213142210"
     ]
   },
   "The New York Times": {
@@ -1358,14 +1358,8 @@
   },
   "Clash Report": {
     "username": "clashreport",
-    "last_guid": "https://twitter.com/clashreport/status/2125688751435432136",
+    "last_guid": "https://twitter.com/clashreport/status/2125691027180908943",
     "seen": [
-      "https://twitter.com/clashreport/status/2125531137485205513",
-      "https://twitter.com/clashreport/status/2125533322201702695",
-      "https://twitter.com/clashreport/status/2125533680835645826",
-      "https://twitter.com/clashreport/status/2125533955273175308",
-      "https://twitter.com/clashreport/status/2125534490546122888",
-      "https://twitter.com/clashreport/status/2125534654786650481",
       "https://twitter.com/clashreport/status/2125534891043631428",
       "https://twitter.com/clashreport/status/2125535017002475967",
       "https://twitter.com/clashreport/status/2125535210439872673",
@@ -1459,7 +1453,13 @@
       "https://twitter.com/clashreport/status/2125687592482119805",
       "https://twitter.com/clashreport/status/2125688032091148375",
       "https://twitter.com/clashreport/status/2125688403677364539",
-      "https://twitter.com/clashreport/status/2125688751435432136"
+      "https://twitter.com/clashreport/status/2125688751435432136",
+      "https://twitter.com/clashreport/status/2125689428912038355",
+      "https://twitter.com/clashreport/status/2125689964268580970",
+      "https://twitter.com/clashreport/status/2125690231659835676",
+      "https://twitter.com/clashreport/status/2125690495699435991",
+      "https://twitter.com/clashreport/status/2125690719549710771",
+      "https://twitter.com/clashreport/status/2125691027180908943"
     ]
   }
 }
