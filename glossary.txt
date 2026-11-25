@@ -39,3 +39,4 @@ Arabian Gulf = خلیج فارس
 Secretary = دبیر
 Mohsen = محسن
 Jared = جرد
+Houthi = حوثی
