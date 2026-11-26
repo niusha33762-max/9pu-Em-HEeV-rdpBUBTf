@@ -44,3 +44,4 @@ Prime Minister = نخست‌وزیر
 Event = رویداد
 Serbia = صربستان
 جيش = ارتش
+Saudi Arabia = عربستان سعودی
