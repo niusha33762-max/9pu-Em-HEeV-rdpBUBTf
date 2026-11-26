@@ -425,9 +425,8 @@
   },
   "Reuters": {
     "username": "ReutersPolitics",
-    "last_guid": "https://twitter.com/ReutersPolitics/status/2125796743795056757",
+    "last_guid": "https://twitter.com/ReutersPolitics/status/2125945293787009286",
     "seen": [
-      "https://twitter.com/ReutersPolitics/status/2120179739558138150",
       "https://twitter.com/ReutersPolitics/status/2120164621415768072",
       "https://twitter.com/ReutersPolitics/status/2120162177327734978",
       "https://twitter.com/ReutersPolitics/status/2119890416401064372",
@@ -526,7 +525,8 @@
       "https://twitter.com/ReutersPolitics/status/2125691067483783260",
       "https://twitter.com/ReutersPolitics/status/2125733914228461724",
       "https://twitter.com/ReutersPolitics/status/2125736352738107436",
-      "https://twitter.com/ReutersPolitics/status/2125796743795056757"
+      "https://twitter.com/ReutersPolitics/status/2125796743795056757",
+      "https://twitter.com/ReutersPolitics/status/2125945293787009286"
     ]
   },
   "NetBlocks": {
@@ -1279,7 +1279,7 @@
   },
   "Al Jazeera": {
     "username": "AJENews",
-    "last_guid": "https://twitter.com/AJENews/status/2125665117337477472",
+    "last_guid": "https://twitter.com/AJENews/status/2125943205233410155",
     "seen": [
       "https://twitter.com/AJENews/status/2121550295100489877",
       "https://twitter.com/AJENews/status/2121422509627052347",
@@ -1353,14 +1353,14 @@
       "https://twitter.com/AJENews/status/2125414874926764397",
       "https://twitter.com/AJENews/status/2125501451011055773",
       "https://twitter.com/AJENews/status/2125526554222444811",
-      "https://twitter.com/AJENews/status/2125665117337477472"
+      "https://twitter.com/AJENews/status/2125665117337477472",
+      "https://twitter.com/AJENews/status/2125943205233410155"
     ]
   },
   "Clash Report": {
     "username": "clashreport",
-    "last_guid": "https://twitter.com/clashreport/status/2125938580241404329",
+    "last_guid": "https://twitter.com/clashreport/status/2125944368540365226",
     "seen": [
-      "https://twitter.com/clashreport/status/2125595724427436363",
       "https://twitter.com/clashreport/status/2125606724438548780",
       "https://twitter.com/clashreport/status/2125614026193351146",
       "https://twitter.com/clashreport/status/2125617132700377433",
@@ -1459,7 +1459,8 @@
       "https://twitter.com/clashreport/status/2125928041893269555",
       "https://twitter.com/clashreport/status/2125930555774570665",
       "https://twitter.com/clashreport/status/2125938276624126373",
-      "https://twitter.com/clashreport/status/2125938580241404329"
+      "https://twitter.com/clashreport/status/2125938580241404329",
+      "https://twitter.com/clashreport/status/2125944368540365226"
     ]
   }
 }
