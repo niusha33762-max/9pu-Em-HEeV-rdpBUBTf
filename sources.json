@@ -866,9 +866,8 @@
   },
   "MiddleEast24": {
     "username": "MiddleEast_24",
-    "last_guid": "https://twitter.com/MiddleEast_24/status/2125983166158827853",
+    "last_guid": "https://twitter.com/MiddleEast_24/status/2125998265619620321",
     "seen": [
-      "https://twitter.com/MiddleEast_24/status/2124276923475882363",
       "https://twitter.com/MiddleEast_24/status/2124307122288808005",
       "https://twitter.com/MiddleEast_24/status/2124337321365696781",
       "https://twitter.com/MiddleEast_24/status/2124367520152829984",
@@ -967,7 +966,8 @@
       "https://twitter.com/MiddleEast_24/status/2125952967383904320",
       "https://twitter.com/MiddleEast_24/status/2125968067188662611",
       "https://twitter.com/MiddleEast_24/status/2125976780171301035",
-      "https://twitter.com/MiddleEast_24/status/2125983166158827853"
+      "https://twitter.com/MiddleEast_24/status/2125983166158827853",
+      "https://twitter.com/MiddleEast_24/status/2125998265619620321"
     ]
   },
   "NBC": {
@@ -1362,11 +1362,8 @@
   },
   "Clash Report": {
     "username": "clashreport",
-    "last_guid": "https://twitter.com/clashreport/status/2125981453276110967",
+    "last_guid": "https://twitter.com/clashreport/status/2125998360473530644",
     "seen": [
-      "https://twitter.com/clashreport/status/2125649004947992724",
-      "https://twitter.com/clashreport/status/2125649254060552435",
-      "https://twitter.com/clashreport/status/2125649580180312269",
       "https://twitter.com/clashreport/status/2125649871894114689",
       "https://twitter.com/clashreport/status/2125651021271634051",
       "https://twitter.com/clashreport/status/2125651487149748343",
@@ -1463,7 +1460,10 @@
       "https://twitter.com/clashreport/status/2125967586881896461",
       "https://twitter.com/clashreport/status/2125968042668491015",
       "https://twitter.com/clashreport/status/2125968238953582826",
-      "https://twitter.com/clashreport/status/2125981453276110967"
+      "https://twitter.com/clashreport/status/2125981453276110967",
+      "https://twitter.com/clashreport/status/2125997743051010134",
+      "https://twitter.com/clashreport/status/2125998080051015704",
+      "https://twitter.com/clashreport/status/2125998360473530644"
     ]
   }
 }
