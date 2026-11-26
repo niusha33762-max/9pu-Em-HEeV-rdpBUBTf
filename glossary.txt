@@ -41,3 +41,4 @@ Mohsen = محسن
 Jared = جرد
 Houthi = حوثی
 Prime Minister = نخست‌وزیر
+Event = رویداد
