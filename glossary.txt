@@ -40,3 +40,4 @@ Secretary = دبیر
 Mohsen = محسن
 Jared = جرد
 Houthi = حوثی
+Prime Minister = نخست‌وزیر
