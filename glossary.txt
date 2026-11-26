@@ -42,3 +42,4 @@ Jared = جرد
 Houthi = حوثی
 Prime Minister = نخست‌وزیر
 Event = رویداد
+Serbia = صربستان
