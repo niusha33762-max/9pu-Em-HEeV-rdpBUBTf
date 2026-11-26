@@ -43,3 +43,4 @@ Houthi = حوثی
 Prime Minister = نخست‌وزیر
 Event = رویداد
 Serbia = صربستان
+جيش = ارتش
