@@ -319,9 +319,8 @@
   },
   "Shin": {
     "username": "hey_itsmyturn",
-    "last_guid": "https://twitter.com/hey_itsmyturn/status/2126105784798896589",
+    "last_guid": "https://twitter.com/hey_itsmyturn/status/2126106811740610594",
     "seen": [
-      "https://twitter.com/hey_itsmyturn/status/2125270755449483718",
       "https://twitter.com/hey_itsmyturn/status/2125288956891644085",
       "https://twitter.com/hey_itsmyturn/status/2125289044598825336",
       "https://twitter.com/hey_itsmyturn/status/2125310348328907150",
@@ -420,7 +419,8 @@
       "https://twitter.com/hey_itsmyturn/status/2126086379201253783",
       "https://twitter.com/hey_itsmyturn/status/2126086479873012185",
       "https://twitter.com/hey_itsmyturn/status/2126100929325707698",
-      "https://twitter.com/hey_itsmyturn/status/2126105784798896589"
+      "https://twitter.com/hey_itsmyturn/status/2126105784798896589",
+      "https://twitter.com/hey_itsmyturn/status/2126106811740610594"
     ]
   },
   "Reuters": {
@@ -1363,14 +1363,8 @@
   },
   "Clash Report": {
     "username": "clashreport",
-    "last_guid": "https://twitter.com/clashreport/status/2126106408823185862",
+    "last_guid": "https://twitter.com/clashreport/status/2126108896943026444",
     "seen": [
-      "https://twitter.com/clashreport/status/2125870535867273560",
-      "https://twitter.com/clashreport/status/2125870827971264861",
-      "https://twitter.com/clashreport/status/2125871176748593276",
-      "https://twitter.com/clashreport/status/2125871792644374893",
-      "https://twitter.com/clashreport/status/2125872081049198622",
-      "https://twitter.com/clashreport/status/2125889648249766378",
       "https://twitter.com/clashreport/status/2125890136344789318",
       "https://twitter.com/clashreport/status/2125890702340964549",
       "https://twitter.com/clashreport/status/2125891058789679376",
@@ -1464,7 +1458,13 @@
       "https://twitter.com/clashreport/status/2126105270153601516",
       "https://twitter.com/clashreport/status/2126105660181844301",
       "https://twitter.com/clashreport/status/2126105997186068810",
-      "https://twitter.com/clashreport/status/2126106408823185862"
+      "https://twitter.com/clashreport/status/2126106408823185862",
+      "https://twitter.com/clashreport/status/2126106646753747435",
+      "https://twitter.com/clashreport/status/2126107122425638936",
+      "https://twitter.com/clashreport/status/2126107812694544660",
+      "https://twitter.com/clashreport/status/2126108105327214645",
+      "https://twitter.com/clashreport/status/2126108680944812060",
+      "https://twitter.com/clashreport/status/2126108896943026444"
     ]
   }
 }
