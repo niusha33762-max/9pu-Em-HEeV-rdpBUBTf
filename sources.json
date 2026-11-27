@@ -213,9 +213,8 @@
   },
   "Sky News": {
     "username": "SkyNewsArabia_B",
-    "last_guid": "https://twitter.com/SkyNewsArabia_B/status/2126413188346552324",
+    "last_guid": "https://twitter.com/SkyNewsArabia_B/status/2126413972387868955",
     "seen": [
-      "https://twitter.com/SkyNewsArabia_B/status/2126021437714837711",
       "https://twitter.com/SkyNewsArabia_B/status/2126032771491721544",
       "https://twitter.com/SkyNewsArabia_B/status/2126034033947857294",
       "https://twitter.com/SkyNewsArabia_B/status/2126067183793144012",
@@ -314,7 +313,8 @@
       "https://twitter.com/SkyNewsArabia_B/status/2126403239998603302",
       "https://twitter.com/SkyNewsArabia_B/status/2126403391236763927",
       "https://twitter.com/SkyNewsArabia_B/status/2126403896126140706",
-      "https://twitter.com/SkyNewsArabia_B/status/2126413188346552324"
+      "https://twitter.com/SkyNewsArabia_B/status/2126413188346552324",
+      "https://twitter.com/SkyNewsArabia_B/status/2126413972387868955"
     ]
   },
   "Shin": {
@@ -1365,13 +1365,8 @@
   },
   "Clash Report": {
     "username": "clashreport",
-    "last_guid": "https://twitter.com/clashreport/status/2126413354889543971",
+    "last_guid": "https://twitter.com/clashreport/status/2126414969553973661",
     "seen": [
-      "https://twitter.com/clashreport/status/2126250405977895056",
-      "https://twitter.com/clashreport/status/2126250859013042196",
-      "https://twitter.com/clashreport/status/2126251334236098902",
-      "https://twitter.com/clashreport/status/2126251372601590224",
-      "https://twitter.com/clashreport/status/2126251651807826353",
       "https://twitter.com/clashreport/status/2126251651858039192",
       "https://twitter.com/clashreport/status/2126252293787971830",
       "https://twitter.com/clashreport/status/2126252408594387285",
@@ -1466,7 +1461,12 @@
       "https://twitter.com/clashreport/status/2126412947698356630",
       "https://twitter.com/clashreport/status/2126412962759913475",
       "https://twitter.com/clashreport/status/2126413340180365735",
-      "https://twitter.com/clashreport/status/2126413354889543971"
+      "https://twitter.com/clashreport/status/2126413354889543971",
+      "https://twitter.com/clashreport/status/2126414099202420817",
+      "https://twitter.com/clashreport/status/2126414481651859616",
+      "https://twitter.com/clashreport/status/2126414526836838429",
+      "https://twitter.com/clashreport/status/2126414934049174010",
+      "https://twitter.com/clashreport/status/2126414969553973661"
     ]
   }
 }
