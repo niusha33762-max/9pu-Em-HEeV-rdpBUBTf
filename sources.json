@@ -425,9 +425,8 @@
   },
   "Reuters": {
     "username": "ReutersPolitics",
-    "last_guid": "https://twitter.com/ReutersPolitics/status/2126340357172412692",
+    "last_guid": "https://twitter.com/ReutersPolitics/status/2126352973068419186",
     "seen": [
-      "https://twitter.com/ReutersPolitics/status/2120300513497370727",
       "https://twitter.com/ReutersPolitics/status/2120539701668966436",
       "https://twitter.com/ReutersPolitics/status/2120645390747742338",
       "https://twitter.com/ReutersPolitics/status/2120647813516185707",
@@ -526,7 +525,8 @@
       "https://twitter.com/ReutersPolitics/status/2126081170936832061",
       "https://twitter.com/ReutersPolitics/status/2126128930675397093",
       "https://twitter.com/ReutersPolitics/status/2126232107638727052",
-      "https://twitter.com/ReutersPolitics/status/2126340357172412692"
+      "https://twitter.com/ReutersPolitics/status/2126340357172412692",
+      "https://twitter.com/ReutersPolitics/status/2126352973068419186"
     ]
   },
   "NetBlocks": {
@@ -1364,13 +1364,8 @@
   },
   "Clash Report": {
     "username": "clashreport",
-    "last_guid": "https://twitter.com/clashreport/status/2126350509917294865",
+    "last_guid": "https://twitter.com/clashreport/status/2126351836466819525",
     "seen": [
-      "https://twitter.com/clashreport/status/2126094821936734473",
-      "https://twitter.com/clashreport/status/2126095165567934867",
-      "https://twitter.com/clashreport/status/2126095455201505330",
-      "https://twitter.com/clashreport/status/2126096318988759475",
-      "https://twitter.com/clashreport/status/2126096670593065257",
       "https://twitter.com/clashreport/status/2126098457098133709",
       "https://twitter.com/clashreport/status/2126101004248568277",
       "https://twitter.com/clashreport/status/2126103057452654746",
@@ -1465,7 +1460,12 @@
       "https://twitter.com/clashreport/status/2126343715128017261",
       "https://twitter.com/clashreport/status/2126346183589155151",
       "https://twitter.com/clashreport/status/2126347922564399235",
-      "https://twitter.com/clashreport/status/2126350509917294865"
+      "https://twitter.com/clashreport/status/2126350509917294865",
+      "https://twitter.com/clashreport/status/2126351037141303796",
+      "https://twitter.com/clashreport/status/2126351248970351088",
+      "https://twitter.com/clashreport/status/2126351558002561429",
+      "https://twitter.com/clashreport/status/2126351600348246472",
+      "https://twitter.com/clashreport/status/2126351836466819525"
     ]
   }
 }
