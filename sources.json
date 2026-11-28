@@ -1,10 +1,8 @@
 {
   "Iran Intl": {
     "username": "IranIntlbrk",
-    "last_guid": "https://twitter.com/IranIntlbrk/status/2126737384247079210",
+    "last_guid": "https://twitter.com/IranIntlbrk/status/2126738705012699581",
     "seen": [
-      "https://twitter.com/IranIntlbrk/status/2126470197301198939",
-      "https://twitter.com/IranIntlbrk/status/2126471244082041124",
       "https://twitter.com/IranIntlbrk/status/2126472403798647205",
       "https://twitter.com/IranIntlbrk/status/2126476269755719957",
       "https://twitter.com/IranIntlbrk/status/2126481752185327620",
@@ -102,14 +100,15 @@
       "https://twitter.com/IranIntlbrk/status/2126732784928723206",
       "https://twitter.com/IranIntlbrk/status/2126733859001696400",
       "https://twitter.com/IranIntlbrk/status/2126735420922945791",
-      "https://twitter.com/IranIntlbrk/status/2126737384247079210"
+      "https://twitter.com/IranIntlbrk/status/2126737384247079210",
+      "https://twitter.com/IranIntlbrk/status/2126738280196796853",
+      "https://twitter.com/IranIntlbrk/status/2126738705012699581"
     ]
   },
   "CNN": {
     "username": "cnnbrk",
-    "last_guid": "https://twitter.com/cnnbrk/status/2126502121814073804",
+    "last_guid": "https://twitter.com/cnnbrk/status/2126739996568662315",
     "seen": [
-      "https://twitter.com/cnnbrk/status/2120151620268789867",
       "https://twitter.com/cnnbrk/status/2120150554886176863",
       "https://twitter.com/cnnbrk/status/2120143728970997791",
       "https://twitter.com/cnnbrk/status/2119984566303604853",
@@ -208,17 +207,14 @@
       "https://twitter.com/cnnbrk/status/2125960790280695887",
       "https://twitter.com/cnnbrk/status/2125966732091167040",
       "https://twitter.com/cnnbrk/status/2126463002689913119",
-      "https://twitter.com/cnnbrk/status/2126502121814073804"
+      "https://twitter.com/cnnbrk/status/2126502121814073804",
+      "https://twitter.com/cnnbrk/status/2126739996568662315"
     ]
   },
   "Sky News": {
     "username": "SkyNewsArabia_B",
-    "last_guid": "https://twitter.com/SkyNewsArabia_B/status/2126722778216923225",
+    "last_guid": "https://twitter.com/SkyNewsArabia_B/status/2126738705524359458",
     "seen": [
-      "https://twitter.com/SkyNewsArabia_B/status/2126317531317379348",
-      "https://twitter.com/SkyNewsArabia_B/status/2126319828801916991",
-      "https://twitter.com/SkyNewsArabia_B/status/2126324853976547456",
-      "https://twitter.com/SkyNewsArabia_B/status/2126329119365529722",
       "https://twitter.com/SkyNewsArabia_B/status/2126331340945834244",
       "https://twitter.com/SkyNewsArabia_B/status/2126331391151681811",
       "https://twitter.com/SkyNewsArabia_B/status/2126333740674847033",
@@ -314,7 +310,11 @@
       "https://twitter.com/SkyNewsArabia_B/status/2126720758839992708",
       "https://twitter.com/SkyNewsArabia_B/status/2126721237598732744",
       "https://twitter.com/SkyNewsArabia_B/status/2126721439449686462",
-      "https://twitter.com/SkyNewsArabia_B/status/2126722778216923225"
+      "https://twitter.com/SkyNewsArabia_B/status/2126722778216923225",
+      "https://twitter.com/SkyNewsArabia_B/status/2126738352607265042",
+      "https://twitter.com/SkyNewsArabia_B/status/2126738452947574857",
+      "https://twitter.com/SkyNewsArabia_B/status/2126738528768053714",
+      "https://twitter.com/SkyNewsArabia_B/status/2126738705524359458"
     ]
   },
   "Shin": {
@@ -1128,9 +1128,8 @@
   },
   "The New York Times": {
     "username": "nytimes",
-    "last_guid": "https://twitter.com/nytimes/status/2126705185044983871",
+    "last_guid": "https://twitter.com/nytimes/status/2126739344270544983",
     "seen": [
-      "https://twitter.com/nytimes/status/2123573429991301456",
       "https://twitter.com/nytimes/status/2123584637666500744",
       "https://twitter.com/nytimes/status/2123607489723891857",
       "https://twitter.com/nytimes/status/2123631207439008220",
@@ -1229,7 +1228,8 @@
       "https://twitter.com/nytimes/status/2126428927673377143",
       "https://twitter.com/nytimes/status/2126675113089048940",
       "https://twitter.com/nytimes/status/2126704625311240572",
-      "https://twitter.com/nytimes/status/2126705185044983871"
+      "https://twitter.com/nytimes/status/2126705185044983871",
+      "https://twitter.com/nytimes/status/2126739344270544983"
     ]
   },
   "TankerTrackers": {
