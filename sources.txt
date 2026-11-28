@@ -15,5 +15,4 @@ FOX = FoxNewsPolitics
 The New York Times = nytimes
 TankerTrackers = TankerTrackers
 Al Jazeera = AJENews
-Clash Report = clashreport
 i24NEWS = i24NEWS_EN
