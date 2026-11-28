@@ -16,3 +16,4 @@ The New York Times = nytimes
 TankerTrackers = TankerTrackers
 Al Jazeera = AJENews
 i24NEWS = i24NEWS_EN
+Clash Report = clashreport
