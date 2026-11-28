@@ -319,10 +319,8 @@
   },
   "Shin": {
     "username": "hey_itsmyturn",
-    "last_guid": "https://twitter.com/hey_itsmyturn/status/2126705143416508661",
+    "last_guid": "https://twitter.com/hey_itsmyturn/status/2126707531296751642",
     "seen": [
-      "https://twitter.com/hey_itsmyturn/status/2126036167103586434",
-      "https://twitter.com/hey_itsmyturn/status/2126036233839100078",
       "https://twitter.com/hey_itsmyturn/status/2126043261785555394",
       "https://twitter.com/hey_itsmyturn/status/2126044860327088328",
       "https://twitter.com/hey_itsmyturn/status/2126044905856287149",
@@ -420,7 +418,9 @@
       "https://twitter.com/hey_itsmyturn/status/2126675963299738058",
       "https://twitter.com/hey_itsmyturn/status/2126677768704569765",
       "https://twitter.com/hey_itsmyturn/status/2126686020204675197",
-      "https://twitter.com/hey_itsmyturn/status/2126705143416508661"
+      "https://twitter.com/hey_itsmyturn/status/2126705143416508661",
+      "https://twitter.com/hey_itsmyturn/status/2126706896694317347",
+      "https://twitter.com/hey_itsmyturn/status/2126707531296751642"
     ]
   },
   "Reuters": {
@@ -655,9 +655,8 @@
   },
   "Open Source Intel": {
     "username": "Osint613",
-    "last_guid": "https://twitter.com/Osint613/status/2126705314686738514",
+    "last_guid": "https://twitter.com/Osint613/status/2126706289438810505",
     "seen": [
-      "https://twitter.com/Osint613/status/2125922574383137151",
       "https://twitter.com/Osint613/status/2125923437675938276",
       "https://twitter.com/Osint613/status/2125925358990250377",
       "https://twitter.com/Osint613/status/2125927358334980116",
@@ -756,7 +755,8 @@
       "https://twitter.com/Osint613/status/2126385428492079507",
       "https://twitter.com/Osint613/status/2126387343246393709",
       "https://twitter.com/Osint613/status/2126702600024473810",
-      "https://twitter.com/Osint613/status/2126705314686738514"
+      "https://twitter.com/Osint613/status/2126705314686738514",
+      "https://twitter.com/Osint613/status/2126706289438810505"
     ]
   },
   "Channel 14": {
@@ -867,9 +867,8 @@
   },
   "MiddleEast24": {
     "username": "MiddleEast_24",
-    "last_guid": "https://twitter.com/MiddleEast_24/status/2126692843540369876",
+    "last_guid": "https://twitter.com/MiddleEast_24/status/2126707941885821273",
     "seen": [
-      "https://twitter.com/MiddleEast_24/status/2125062097348260290",
       "https://twitter.com/MiddleEast_24/status/2125098586887291338",
       "https://twitter.com/MiddleEast_24/status/2125157839161426420",
       "https://twitter.com/MiddleEast_24/status/2125167793746161787",
@@ -968,7 +967,8 @@
       "https://twitter.com/MiddleEast_24/status/2126647544159818185",
       "https://twitter.com/MiddleEast_24/status/2126662643264188584",
       "https://twitter.com/MiddleEast_24/status/2126677742909587801",
-      "https://twitter.com/MiddleEast_24/status/2126692843540369876"
+      "https://twitter.com/MiddleEast_24/status/2126692843540369876",
+      "https://twitter.com/MiddleEast_24/status/2126707941885821273"
     ]
   },
   "NBC": {
@@ -1369,9 +1369,8 @@
   },
   "Clash Report": {
     "username": "clashreport",
-    "last_guid": "https://twitter.com/clashreport/status/2126702657083408422",
+    "last_guid": "https://twitter.com/clashreport/status/2126706431718273277",
     "seen": [
-      "https://twitter.com/clashreport/status/2126355368389550581",
       "https://twitter.com/clashreport/status/2126360460886986852",
       "https://twitter.com/clashreport/status/2126381038221799862",
       "https://twitter.com/clashreport/status/2126383906828259488",
@@ -1470,7 +1469,8 @@
       "https://twitter.com/clashreport/status/2126691856763552130",
       "https://twitter.com/clashreport/status/2126695124914868233",
       "https://twitter.com/clashreport/status/2126698881945850107",
-      "https://twitter.com/clashreport/status/2126702657083408422"
+      "https://twitter.com/clashreport/status/2126702657083408422",
+      "https://twitter.com/clashreport/status/2126706431718273277"
     ]
   }
 }
