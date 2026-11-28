@@ -1,11 +1,8 @@
 {
   "Iran Intl": {
     "username": "IranIntlbrk",
-    "last_guid": "https://twitter.com/IranIntlbrk/status/2126656024031732055",
+    "last_guid": "https://twitter.com/IranIntlbrk/status/2126659466959654971",
     "seen": [
-      "https://twitter.com/IranIntlbrk/status/2126376702620180664",
-      "https://twitter.com/IranIntlbrk/status/2126380235515982087",
-      "https://twitter.com/IranIntlbrk/status/2126383128331833411",
       "https://twitter.com/IranIntlbrk/status/2126384069374312622",
       "https://twitter.com/IranIntlbrk/status/2126386470067884042",
       "https://twitter.com/IranIntlbrk/status/2126390003018486104",
@@ -102,7 +99,10 @@
       "https://twitter.com/IranIntlbrk/status/2126651978537201973",
       "https://twitter.com/IranIntlbrk/status/2126654259794166099",
       "https://twitter.com/IranIntlbrk/status/2126655844573909099",
-      "https://twitter.com/IranIntlbrk/status/2126656024031732055"
+      "https://twitter.com/IranIntlbrk/status/2126656024031732055",
+      "https://twitter.com/IranIntlbrk/status/2126657797710373362",
+      "https://twitter.com/IranIntlbrk/status/2126658821091373061",
+      "https://twitter.com/IranIntlbrk/status/2126659466959654971"
     ]
   },
   "CNN": {
@@ -1368,9 +1368,8 @@
   },
   "Clash Report": {
     "username": "clashreport",
-    "last_guid": "https://twitter.com/clashreport/status/2126656787881345059",
+    "last_guid": "https://twitter.com/clashreport/status/2126658840766656969",
     "seen": [
-      "https://twitter.com/clashreport/status/2027804563164573893",
       "https://twitter.com/clashreport/status/2126311109120467414",
       "https://twitter.com/clashreport/status/2126316106377765233",
       "https://twitter.com/clashreport/status/2126319466409537886",
@@ -1469,7 +1468,8 @@
       "https://twitter.com/clashreport/status/2126639127902797958",
       "https://twitter.com/clashreport/status/2126639560285425933",
       "https://twitter.com/clashreport/status/2126649726632067146",
-      "https://twitter.com/clashreport/status/2126656787881345059"
+      "https://twitter.com/clashreport/status/2126656787881345059",
+      "https://twitter.com/clashreport/status/2126658840766656969"
     ]
   }
 }
